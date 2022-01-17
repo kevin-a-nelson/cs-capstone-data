@@ -1,0 +1,616 @@
+rt granetman hacker held open mongodb databases for ransom by securityaffairs mongodb hac
+several thousand linux devices infected with the linux.proxy.10 linux malware
+hacking ubuntu linux distro exploiting the crashdb code injection ubuntu linux hacking
+rt globalcyberalln cve-2016-8655 a new 5-year-old flaw found in the linux kernel
+0xdude hacker held open mongodb databases for mongodb hacking cybercrime
+linux rakos the new linux malware threatening devices and linux iot rakos
+arturodicorinto thehackersnews hacker held open mongodb databases for mongodb hacking
+cve-2016-7240 ms16-129 microsoft edge browser memory corruption remote code execution vii 3199057 mcafee
+threatmeter ibm tivoli storage flashcopy manager for sql server 3.1.1.7 obtain information vulnerability
+microsoft azure flaws exposed red hat enterprise linux instances
+netiq sentinel java object deserialization rce nessus
+sans internet storm center microsoft update servers left all azure rhel instances hackable the register
+google chrome accessibility blink node corruption packetstorm
+ibm tivoli storage flashcopy manager for sql server 3.1.1.7 obtain information vulnerability
+threatmeter mcafee virus scan enterprise for linux remote code execution
+rhel 6 chromium-browser rhsa-2016 2919
+red hat security advisory 2016-2847-01 packetstorm
+mcafee virus scan enterprise for linux remote code execution
+threatmeter mcafee virus scan enterprise opens linux machines to remote attackers
+mcafee virusscan enterprise for linux lt 2.0.3 multiple vulnerabilities sb10181 nessus
+opensuse security update java-1 7 0-openjdk opensuse-2016-1357 nessus
+threatmeter 0daytoday mcafee virus scan enterprise for linux remote code execution exploit 0day exploit
+mcafee virus scan enterprise opens linux machines to remote attackers
+mcafee virusscan enterprise for linux security flaws gives attackers root access
+threatmeter mcafee virusscan enterprise for linux security flaws gives attackers root access
+mcafee virusscan for linux vulnerabilities gave hackers root access
+cve-2016-7281 ms16-144 microsoft internet explorer browser security bypass 3204059 mcafee
+the latest linux webserver security thanks to newbie bloggers mmrupp wordpress security
+shadowbrokers exits releasing another arsenal of tools to hack windows securityaffairs
+shadowbrokers offers for sale the stolen nsa windows hacking tools
+cve-2016-5184 pdfium in google chrome prior to 54.0.2840.59 for windows mac and linux 54.0.2840.85 for android
+mcafee virusscan enterprise for linux lt 2.0.3 multiple vulnerabilities sb10181
+red hat security advisory 2016-2957-01 packetstorm
+red hat security advisory 2017-0014-01 packetstorm
+threatmeter rhba-2016 2979-1 red hat enterprise linux openstack platform 6 bug fix and enhancement advisory
+threatmeter cve-2016-5184 pdfium in google chrome prior to 54.0.2840.59 for windows mac and linux 54.0.2840.85
+threatmeter cve-2016-5185 blink in google chrome prior to 54.0.2840.59 for windows mac and linux 54.0.2840.85
+cve-2016-5191 bookmark handling in google chrome prior to 54.0.2840.59 for windows mac and linux 54.0.2840.85 f
+red hat security advisory 2017-0001-01 packetstorm
+rhsa-2016 2998-1 low red hat enterprise linux 6.2 advanced mission critical amc one-year notice
+rhel 5 6 7 thunderbird rhsa-2016 2973 nessus
+threatmeter best hacking tools of 2017 for windows linux and os x
+best hacking tools of 2017 for windows linux and os x
+red hat security advisory 2017-0025-01 packetstorm
+oracle linux 5 6 7 java-1.6.0-openjdk elsa-2017-0061 nessus
+vuln sap netweaver as java getuseruddielements sql injection vulnerability bugtraq
+rhel 6 gstreamer-plugins-good rhsa-2016 2975 nessus
+threatmeter vuln sap netweaver as java getuseruddielements sql injection vulnerability
+shadowbrokers exits releasing another arsenal of tools to hack windows
+shadowbrokers offers for sale the stolen nsa windows hacking tools securityaffairs
+beware mongodb hijackers move on to elasticsearch servers w weak or guessable passwords 600 attacked so far
+shadow brokers say goodbye leak a batch of windows hacking tools
+rhel 7 kernel rhsa-2017 0086 nessus
+sap netweaver as java p4 mspruntimeinterface information disclosure packetstorm
+rhel 7 docker rhsa-2017 0116 nessus
+threatmeter cve-2016-5226 blink in google chrome prior to 55.0.2883.75 for linux windows and mac executed javasc
+rhel 5 bind97 rhsa-2017 0064 nessus
+cve-2016-5211 a use after free in pdfium in google chrome prior to 55.0.2883.75 for mac windows and linux and 55
+threatmeter centos 7 qemu-kvm cesa-2017 0083
+rhel 6 7 java-1.8.0-oracle rhsa-2017 0175 nessus
+threatmeter oracle linux 6 7 java-1.8.0-openjdk elsa-2017-0180
+threatmeter cve-2016-9650 blink in google chrome prior to 55.0.2883.75 for mac windows and linux and 55.0.2883
+vuln sap afaria multiple sql injection vulnerabilities
+a flawed adobe extension automatically installed on 30 million chrome browsers
+vuln sap afaria multiple sql injection vulnerabilities
+google shuts off chrome sync api for third-party browsers on android citing a security vulnerability
+rhel 6 7 java-1.8.0-openjdk rhsa-2017 0180 nessus
+shadowbrokers offers for sale the stolen nsa windows hacking tools
+threatmeter vuln sap afaria multiple sql injection vulnerabilities
+google chrome lt 56.0.2924.76 multiple vulnerabilities macos nessus
+threatmeter google fixes 12 high-severity flaws in chrome browser
+threatmeter rhel 6 chromium-browser rhsa-2016 2919
+rhel 6 chromium-browser rhsa-2016 2919 nessus
+ms16-154 security update for adobe flash player 3209498 nessus
+nvidia windows gpu display driver 340.x lt 342.01 375.x lt 376.33 multiple vulnerabilities nessus
+adobe angers chrome users by bundling browser plugin with security update hitb
+cve-2016-5223 integer overflow in pdfium in google chrome prior to 55.0.2883.75 for mac windows and linux and 55
+red hat security advisory 2016-2850-01 packetstorm
+glsa-201701-17 adobe flash player multiple vulnerabilities nessus
+aix 7.2 tl 1 bind iv91257 nessus
+rhel 7 kernel rhsa-2017 0004 nessus
+rt maldevel update debian flash-player plugin sudo update-flashplugin-nonfree -install
+adobe flash player for mac lt 23.0.0.207 multiple vulnerabilities apsb16-39 nessus
+microsoft internet explorer 9 cdoc executescripturi use-after-free packetstorm
+cve-2016-7279 ms16-144 microsoft internet explorer browser remote code execution 3204059 mcafee
+rhel 6 flash-plugin rhsa-2016 2947 nessus
+icymi elasticsearch servers latest target of ransom attacks
+threatmeter sudo on red hat linux readline handler information disclosure
+microsoft internet explorer 9 mshtml cdispnode insertsiblingnode use-after-free packetstorm
+threatmeter debian dsa-3739-1 tomcat8 security update
+mongodb ransom attacks soar body count hits 27 000 in hours theregister
+red hat security advisory 2017-0177-01 packetstorm
+rt reverse4you org shadowbrokers windows hacking tool leak
+0daytoday linux kernel 2.6.22 amp lt 3.9 dirty cow proc self mem race condition privileg 0day exploit
+threatmeter linux kernel 4.7 denial of service vulnerability
+ubuntu 16.10 linux vulnerabilities usn-3147-1 nessus
+google chrome privilege escalation packetstorm
+cve-2016-1251 dbd-mysql
+threatmeter ubuntu 14.04 lts 16.04 lts 16.10 oxide-qt vulnerabilities usn-3133-1
+hp operations orchestration wsexecutionbridgeservice servlet java object deserialization rce nessus
+hp network automation rpcservlet java object deserialization rce nessus
+fedora 25 qpid-java 2017-7b181f9c98 nessus
+microsoft internet explorer 11 mshtml cpastecommand convertbitmaptopng buffer overflow packetstorm
+linux kernel up to 4.8.6 security keys big key.c denial of service
+ubuntu 16.10 linux vulnerabilities usn-3147-1
+cve-2017-5179 cross-site scripting xss vulnerability in tenable nessus before 6.9.3 allows remote authenticated
+vuln linux kernel lapic.c local denial of service vulnerability
+zdi-16-617 dell sonicwall universal management suite imagepreviewservlet sql injection remote code execution vuln
+ubuntu security notice usn-3172-1 packetstorm
+threatmeter linux kernel 4.5.7 denial of service vulnerability
+have a linux question linuxdotcom is here to help
+vuln linux kernel lapic.c local denial of service vulnerability
+threatmeter glsa-201612-08 linuxcifs utils buffer overflow
+ubuntu security notice usn-3164-1 packetstorm
+centos 7 bind cesa-2016 2615 nessus
+created by brandon amp hakobyans sql injection
+ubuntu 14.04 lts 16.04 lts 16.10 oxide-qt vulnerabilities usn-3133-1
+threatmeter ubuntu 12.04 lts linux vulnerability usn-3144-1
+shadow brokers say goodbye leak a batch of windows hacking tools helpnetsecurity
+oracle linux 7 gstreamer1-plugins-good elsa-2017-0020
+threatmeter cve-2016-9178 the get user asm ex macro in arch x86 include asm uaccess.h in the linux kernel befor
+cve-2015-1328 the overlayfs implementation in the linux aka linux kernel package before 3.19.0-21.21 in ubuntu t
+threatmeter shellcode linux x86-64 bin sh c reboot shellcode 89 bytes
+vuln linux kernel cve-2016-1583 stack-based buffer overflow vulnerability
+threatmeter vuln linux kernel out-of-bounds read information disclosure vulnerability
+oracle linux 7 memcached elsa-2016-2819
+vuln linux kernel cve-2016-6136 local information disclosure vulnerability
+schoolhos cms 2.29 sql injection exploit
+scriptless zero-day exploit bypasses linux security features
+threatmeter linux kernel dirty cow ptrace pokedata privilege escalation
+threatmeter vuln linux kernel sound core timer.c local information disclosure vulnerability
+oracle linux 6 7 expat elsa-2016-2824 nessus
+cve-2016-9191 the cgroup offline implementation in the linux kernel through 4.8.11 mishandles certain drain operat
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 c-ares vulnerability usn-3143-1 nessus
+0daytoday linux kernel 2.6.22 amp lt 3.9 dirty cow ptrace pokedata race condition poc wr 0day exploit
+centos 7 memcached cesa-2016 2819
+linux kernel dirty cow ptrace pokedata privilege escalation
+vuln linux kernel cve-2016-6480 local information disclosure vulnerability
+vuln linux kernel sound core timer.c local information disclosure vulnerability bugtraq
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 gst-plugins-good0.10 gst-plugins-good1.0 vulnerab
+threatmeter cve-2016-9083 drivers vfio pci vfio pci.c in the linux kernel through 4.8.11 allows local users to by
+vuln linux kernel kvm emulate.c local information disclosure vulnerability
+suse sled12 sles12 security update recommended update for mariadb suse-su-2016 2933-1 nessus
+rt ruggerotonelli security cve-2016-8655 linux af packet.c race condition local root lt yep another server r
+threatmeter ubuntu linux up to 15.04 overlayfs privilege escalation
+threatmeter linux kernel dirty cow ptrace pokedata privilege escalation
+threatmeter linux kernel up to 4.8.6 security keys big key.c denial of service
+vuln linux kernel local security bypass vulnerability bugtraq
+threatmeter centos 7 resteasy-base cesa-2016 2604
+centos 7 util-linux cesa-2016 2605
+vigilnce linux kernel memory corruption via ip6t so set replace
+debian dla-723-1 libsoap-lite-perl security update
+threatmeter vuln linux kernel cve-2016-6136 local information disclosure vulnerability
+threatmeter 0daytoday linux x86-64 bin sh c reboot shellcode 89 bytes shellcode 0day exploit
+vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability
+vuln linux kernel vfio driver cve-2016-9084 integer overflow vulnerability
+cve-2016-3044 the linux kernel component in ibm powerkvm 2.1 before 2.1.1.3-65.10 and 3.1 before 3.1.0.2 allows gu
+cve-2016-8630 the x86 decode insn function in arch x86 kvm emulate.c in the linux kernel before 4.8.7 when kvm is
+threatmeter debian dsa-3725-1 icu security update
+threatmeter linux kernel 2.6.32-642 3.16.0-4 inode integer overflow
+freebsd remote-code-execution vulnerability in mysql and its variants cve 2016-6662 dc596a17-7a9e-11 nessus
+threatmeter linux security made simple
+threatmeter linux ntpd 4.2.8 derive nonce stack overflow
+ubuntu linux up to 15.04 overlayfs privilege escalation
+protect your linux device from exploits and malware
+microsoft enables linux desktop users to send sms text messages with latest skype alpha hitb
+threatmeter fedora 24 perl-dbd-mysql 2016-54fd3bf412
+threatmeter vuln linux kernel cve-2016-1583 stack-based buffer overflow vulnerability
+desh universal cms sql injection
+threatmeter linux kernel up to 4.8.6 drivers firewire net.c buffer overflow
+rhel 6 7 expat rhsa-2016 2824 nessus
+vuln linux kernel cve-2016-8650 null pointer deference local denial of service vulnerability bugtraq
+vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability bugtraq
+dbd-mysql up to 3.x 4.040 on perl mysql server prepare 1 use-after-free buffer overflow
+oraclevm 3.2 xen ovmsa-2016-0166 nessus
+threatmeter cve-2016-8630 the x86 decode insn function in arch x86 kvm emulate.c in the linux kernel before 4.8.7
+threatmeter oracle linux 7 memcached elsa-2016-2819
+mozilla patches firefox 0-day sql slammer goolian malware bypassing saml podcast security
+vuln linux kernel local security bypass vulnerability
+vuln linux kernel cve-2016-4578 multiple local information disclosure vulnerabilities bugtraq
+vigilnce joomla huge it googlemaps sql injection
+desh universal cms sql injection cxsecurity
+ubuntu security notice usn-3137-1 packetstorm
+threatmeter linux kernel up to 4.4.1 crypto algif skcipher.c lrw crypt denial of service
+linux kernel up to 4.8.11 lib mpi mpi-pow.c mpi powm buffer overflow
+vuln linux kernel ip tunnel.c local integer overflow vulnerability
+explore it sql injection vulnerability cxsecurity
+0daytoday linux kernel 2.6.x pipe.c privilege escalation exploit cve-2009-3547 remote exploits 0day exploit
+vuln linux kernel cve-2016-7039 stack overflow denial of service vulnerability
+threatmeter vuln linux kernel tcp xmit retransmit queue function use after free denial of service vulnerabil
+gentoo linux security advisory 201611-21 advisory
+vuln linux kernel cve-2016-9644 local privilege escalation vulnerability bugtraq
+ubuntu 16.04 lts linux vulnerabilities usn-3146-1
+luis bernardo sql injection vulnerability
+ubuntu 12.04 lts linux vulnerability usn-3150-1
+vuln linux kernel multiple local memory corruption vulnerabilities bugtraq
+threatmeter real design sql injection
+0daytoday linux x86 egg-hunter shellcode 25 bytes shellcode 0day exploit
+vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability
+threatmeter opensuse security update the linux kernel opensuse-2016-1410
+ubuntu 12.04 lts openjdk-6 vulnerabilities usn-3154-1
+threatmeter shellcode linux x86 egg-hunter shellcode 25 bytes
+threatmeter vuln linux kernel multiple local memory corruption vulnerabilities
+threatmeter vuln linux kernel cve-2016-9120 local use after free memory corruption vulnerability
+linux kernel 3.0.1 denial of service gain privileges memory corruption vulnerability
+threatmeter vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability
+vuln linux kernel ip tunnel.c local integer overflow vulnerability
+0daytoday linux kernel 2.6.22 amp lt 3.9 dirty cow proc self mem race condition privileg 0day exploit
+vuln linux kernel kvm emulate.c local information disclosure vulnerability bugtraq
+vuln linux kernel ip tunnel.c local integer overflow vulnerability
+ubuntu 12.04 lts linux vulnerability usn-3144-1
+ubuntu security notice usn-3142-1 advisory
+ubuntu security notice usn-3144-2 advisory
+linux kernel 2.6.32-642 3.16.0-4 inode integer overflow poc cxsecurity
+threatmeter vuln linux kernel cve-2015-8967 local privilege escalation vulnerability
+threatmeter vuln linux kernel multiple local memory corruption vulnerabilities
+threatmeter vuln linux kernel cve-2016-7042 local denial of service vulnerability
+debian dsa-3726-1 imagemagick security update nessus
+ubuntu 14.04 lts linux vulnerability usn-3149-1
+real design sql injection cxsecurity
+threatmeter cve-2016-8405 linux kernel
+threatmeter debian dla-722-1 irssi security update
+vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability
+threatmeter shellcode linux x86 netcat e option disabled reverse shell shellcode 180 bytes
+threatmeter vuln linux kernel cve-2016-9755 out of bounds write security vulnerability
+vuln debian tomcat package multiple local privilege escalation vulnerabilities
+centos 7 ipsilon cesa-2016 2809 nessus
+glsa-201612-08 linuxcifs utils buffer overflow nessus
+threatmeter chatnow 1.1 sql injection web vulnerability
+debian dsa-3725-1 icu security update
+suse sles11 security update kvm suse-su-2016 2902-1 nessus
+vuln linux kernel kvm emulate.c local information disclosure vulnerability
+vuln linux kernel cve-2016-9120 local use after free memory corruption vulnerability bugtraq
+vuln linux kernel cve-2016-8666 stack overflow denial of service vulnerability bugtraq
+threatmeter vuln linux kernel cve-2016-6480 local information disclosure vulnerability
+threatmeter suse sled12 sles12 security update util-linux suse-su-2016 2954-1
+threatmeter linux kernel 3.18.1 denial of service memory corruption vulnerability
+linux.horsepill latestthreats
+threatmeter oracle linux 5 6 7 firefox elsa-2016-2843
+vuln linux kernel multiple local memory corruption vulnerabilities
+local linux kernel 2.6.22 lt 3.9 dirty cow ptrace pokedata race condition privilege escalation
+threatmeter another nasty linux kernel bug surfaces
+vuln linux kernel cve-2016-9755 out of bounds write security vulnerability
+ubuntu 12.04 lts linux-lts-trusty vulnerabilities usn-3145-2
+vuln linux kernel tcp xmit retransmit queue function use after free denial of service vulnerability
+apache struts 2.5.x lt 2.5.8 urlvalidator form field handling remote dos nessus
+threatmeter debian dla-736-1 gst-plugins-bad0.10 security update
+suse sled12 sles12 security update pcre suse-su-2016 3161-1 nessus
+debian dla-735-1 gst-plugins-base0.10 security update
+vuln util-linux cve-2016-5011 local denial of service vulnerability
+0daytoday linux kernel 4.4.0 af packet race condition privilege escalation exploit 0day exploit
+hacking ubuntu linux distro exploiting the crashdb code injection issue securityaffairs
+dear hackers ubuntu s app crash reporter will happily execute your evil code on a victim s box
+0daytoday linux kernel 4.4.0 af packet race condition privilege escalation exploit 0day exploit
+threatmeter debian dla-743-1 firefox-esr security update
+threatmeter linux kernel 4.6.6 obtain information vulnerability
+opensuse security update x window system client libraries opensuse-2016-1420 nessus
+linux kernel up to 4.8.12 net packet af packet.c denial of service
+vigilnce linux kernel information disclosure via kvm em x far
+threatmeter linux kernel up to 4.8.11 kvm out-of-bounds buffer overflow
+threatmeter centos 5 thunderbird cesa-2016 2973
+threatmeter amazon linux ami tomcat8 alas-2016-778
+vuln apache struts cve-2016-8738 denial of service vulnerability bugtraq
+vuln linux kernel arch x86 kvm vmx.c denial of service vulnerability bugtraq
+ubuntu 16.04 lts linux vulnerabilities usn-3161-1 nessus
+opensuse security update roundcubemail opensuse-2016-1419 nessus
+threatmeter opensuse security update the linux kernel opensuse-2016-1426
+vigilnce linux kernel denial of service via gro
+suse sles11 security update xen suse-su-2016 3044-1 nessus
+cve-2016-8655 a new 5-year-old flaw found in the linux kernel
+cve-2016-9919 linux kernel
+threatmeter scientific linux security update tomcat on sl7.x noarch
+linux kernel packet set ring race condition lets local users obtain root privileges
+scientific linux security update tomcat on sl7.x noarch
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 firefox vulnerabilities usn-3155-1
+off-the-shelf hacker linux pipes redirection and awk rootsector security infosec
+threatmeter cve-2015-8967 arch arm64 kernel sys.c in the linux kernel before 4.0 allows local users to bypass the
+scientific linux security update util-linux on sl7.x x86 64 nessus
+linux rakos the new linux malware threatening devices and servers securityaffairs
+threatmeter vuln linux kernel cve-2015-8104 denial of service vulnerability
+threatmeter linux kernel 3.18.6 bypass a restriction or similar vulnerability
+threatmeter scientific linux security update thunderbird on sl5.x sl6.x sl7.x i386 x86 64
+opensuse security update python-twisted opensuse-2016-1482 nessus
+linux kernel 4.4.0 ubuntu 14.04 16.04 x86-64 af packet race condition privilege escalation cxsecurity
+ubuntu security notice usn-3169-4 advisory
+new rakos botnet found to be targeting linux servers amp iot devices w brute force attacks security infosec
+ubuntu security notice usn-3154-1 packetstorm
+remote code execution rce attacks on apache struts imperva
+ubuntu 14.04 lts 16.04 lts 16.10 apt vulnerability usn-3156-1
+vuln apache struts cve-2016-0785 remote code execution vulnerability
+threatmeter linux kernel up to 4.9 bp of exception handler arch x86 kvm vmx.c denial of service
+opensuse security update libgit2 opensuse-2016-1450 nessus
+cve-2016-6213 fs namespace.c in the linux kernel before 4.9 does not restrict how many mounts may exist in a mount
+threatmeter ubuntu s apport bug reporting tool leads to vulnerabilities
+vuln linux kernel arch x86 kvm vmx.c denial of service vulnerability bugtraq
+debian dla-758-1 libgd2 security update
+debian security advisory 3730-1 advisory
+threatmeter linux kernel up to 4.6 alsa subsystem sound core pcm lib.c snd pcm period elapsed buffer overflow
+opensuse security update php5 opensuse-2016-1505 nessus
+threatmeter sqlite 3.12.2 denial of service obtain information vulnerability
+threatmeter vigilnce linux kernel privilege escalation via copy on write dirty cow
+threatmeter vigilnce linux kernel buffer overflow via proc keys show
+rt bleepincomputer mysterious rakos botnet rises in the shadows by targeting linux servers iot devices by
+threatmeter vuln linux kernel cve-2016-5195 local privilege escalation vulnerability
+0-day exploits could wreak havoc on linux desktops
+gvarisco hacker held open mongodb databases for mongodb hacking
+mcafee virus scan for linux allows for remote code execution as
+threatmeter fedora 23 perl-dbd-mysql 2016-bf6c3ea62c
+centos 5 thunderbird cesa-2016 2973
+oracle linux 6 gstreamer-plugins-bad-free elsa-2016-2974
+solution by jaya shri combine sql injection
+fedora 23 perl-dbd-mysql 2016-bf6c3ea62c
+linux kernel 4.9 officially released
+medium usn-3159-1 linux kernel vulnerability
+opensuse security update the linux kernel opensuse-2016-1436
+debian dla-755-1 dcmtk security update nessus
+threatmeter opensuse security update the linux kernel opensuse-2016-1428
+suse sles12 security update kernel suse-su-2016 3249-1 nessus
+threatmeter security expert disclosed a full zero-day drive-by exploit for linux leveraging snes
+opensuse security update libxfixes opensuse-2016-1429 nessus
+vigilnce linux kernel buffer overflow via brcmf cfg80211 start ap
+oracle linux 6 7 unbreakable enterprise kernel elsa-2016-3651
+0-day exploits could wreak havoc on linux desktops
+linux rakos the new linux malware threatening devices and servers
+security expert disclosed a full zero-day drive-by exploit for linux leveraging snes securityaffairs
+0-day exploits could wreak havoc on linux desktops
+threatmeter linux kernel up to 4.8.13 net core sock.c sock setsockopt sk sndbuf sk rcvbuf buffer overflow
+oraclevm 3.3 3.4 vim ovmsa-2016-0182 nessus
+ubuntu 16.10 apt regression usn-3156-2
+vuln linux kernel multiple local memory corruption vulnerabilities
+oraclevm 3.3 unbreakable etc ovmsa-2016-0175 nessus
+threatmeter na cve-2016-9777 kvm in the linux kernel before 4.8.12 when i o
+threatmeter linux kernel 4.4.0 ubuntu 14.04 16.04 x86-64 af packet race condition privilege escalation
+vuln linux kernel pcpu extend area map function use after free denial of service vulnerability
+threatmeter vuln linux kernel pcpu extend area map function use after free denial of service vulnerability
+threatmeter na cve-2016-9588 arch x86 kvm vmx.c in the linux kernel through
+suse sles12 security update freeradius-server suse-su-2017 0102-1 nessus
+cve-2016-9755 the netfilter subsystem in the linux kernel before 4.9 mishandles ipv6 reassembly which allows loca
+threatmeter cve-2016-9919 the icmp6 send function in net ipv6 icmp.c in the linux kernel through 4.8.12 omits a c
+vuln oracle mysql cve-2016-6662 remote code execution vulnerability
+deadly killdisk malware now in linux
+ubuntu 16.04 lts linux-snapdragon vulnerabilities usn-3169-4 nessus
+how to brute force a mysql db
+mongodb has published some best practices to help prevent users from being hit by the current attacks
+27 000 mongodb servers have their data wiped receive ransom demand for its safe return
+hacker gold rush deletes 27 000 mongodb databases
+vuln linux kernel path openat function use after free memory corruption vulnerability bugtraq
+cve-2016-10088 the sg implementation in the linux kernel through 4.9 does not properly restrict write operations i
+unprotected mongodb databases wiped and held for ransom by attacker
+vuln linux kernel local memory corruption and integer overflow vulnerabilities
+vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 libvncserver vulnerabilities usn-3171-1
+debian security advisory 3736-1 packetstorm
+thousands of mongodb databases compromised and held to ransom nakedsecurity
+vuln oracle mysql cve-2016-5626 remote security vulnerability
+threatmeter cve-2016-10088 the sg implementation in the linux kernel through 4.9 does not properly restrict write
+cve-2016-8405 linux kernel
+opensuse security update irssi opensuse-2017-67 nessus
+threatmeter oracle linux 7 gstreamer-plugins-bad-free elsa-2017-0018
+vuln linux kernel cve-2016-5195 local privilege escalation vulnerability
+threatmeter cve-2016-6786 kernel events core.c in the performance subsystem in the linux kernel before 4.0 misman
+threatmeter vuln linux kernel cve-2013-6282 local privilege escalation vulnerabilities
+killdiskransomware targets linux demands 250 000 ransom but won t decrypt files
+ubuntu 16.04 lts linux-snapdragon vulnerabilities usn-3169-4
+vuln linux kernel local memory corruption and integer overflow vulnerabilities
+suse sled12 sles12 security update zlib suse-su-2017 0004-1 nessus
+vuln linux kernel path openat function use after free memory corruption vulnerability
+threatmeter centos 6 ghostscript cesa-2017 0014
+vuln oracle mysql cve-2016-6663 unspecified security vulnerability
+vuln linux kernel multiple remote denial of service vulnerability
+vuln linux kernel cve-2016-5195 local privilege escalation vulnerability
+vuln linux kernel cve-2016-5195 local privilege escalation vulnerability
+vuln linux kernel cve-2016-10088 incomplete fix multiple local memory corruption vulnerabilities
+watch out sysadmins someone hijacked more than 2000 unsecured mongodb databases for ransom security rootsector
+vuln linux kernel mm memory.c local code execution vulnerability
+more than 10 000 exposed mongodb databases deleted by ransomware groups networkworld
+vuln linux kernel cve-2016-10088 incomplete fix multiple local memory corruption vulnerabilities bugtraq
+vuln oracle mysql cve-2016-6663 unspecified security vulnerability bugtraq
+cve-2016-9806 race condition in the netlink dump function in net netlink af netlink.c in the linux kernel before 4
+someone hijacking unsecured mongodbdatabases for ransom
+vuln linux kernel multiple local memory corruption vulnerabilities
+vuln linux kernel multiple local memory corruption vulnerabilities
+debian security advisory 3757-1 packetstorm
+vuln linux kernel cve-2016-5195 local privilege escalation vulnerability
+vuln oracle mysql cve-2016-6662 remote code execution vulnerability
+vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability
+vuln linux kernel cve-2016-5195 local privilege escalation vulnerability
+mariadb 5.5.x lt 5.5.54 multiple vulnerabilities nessus
+vmware vsphere client xxe injection information disclosure vmsa-2016-0022 nessus
+webworx design group sql injection vulnerabilites
+vuln linux kernel cve-2013-6282 local privilege escalation vulnerabilities bugtraq
+threatmeter thousands of mongodb databases hit by ransomware attacks
+threatmeter amazon linux ami tomcat6 alas-2016-776
+vuln mongodb cve-2016-3104 remote denial of service vulnerability
+ubuntu security notice usn-3169-2 advisory
+vmware vsphere data protection private ssh key authentication bypass vmsa-2016-0024 nessus
+threatmeter vuln linux kernel path openat function use after free memory corruption vulnerability
+ubuntu 16.04 lts linux vulnerabilities usn-3169-1
+threatmeter oracle linux 6 kernel elsa-2017-0036
+no honor among thieves crooks seek ransom for mongodb data someone else stole tim greene cioonline infosec
+linux kernel sg write and bsg write functions let local users obtain root privileges
+ubuntu 14.04 lts linux vulnerabilities usn-3168-1
+ubuntu 12.04 lts linux-lts-trusty vulnerabilities usn-3168-2 nessus
+vuln linux kernel local memory corruption and integer overflow vulnerabilities
+vuln oracle mysql cve-2016-6662 remote code execution vulnerability
+vuln linux kernel cve-2015-5307 denial of service vulnerability
+ubuntu security notice usn-3169-3 advisory
+threatmeter oracle linux 6 7 unbreakable enterprise kernel elsa-2017-3509
+vuln util-linux cve-2016-5011 local denial of service vulnerability bugtraq
+ubuntu 16.04 lts linux-raspi2 vulnerabilities usn-3169-3
+vuln oracle mysql cve-2016-6662 remote code execution vulnerability
+vuln linux kernel cve-2016-10088 incomplete fix multiple local memory corruption vulnerabilities
+cve-2016-6756 linux kernel
+threatmeter opensuse security update the linux kernel opensuse-2017-1
+nsa exploit peddlers the shadow brokers call it quits news
+exposed mongodb installs being erased held for ransom
+cve-2016-6757 linux kernel
+ubuntu security notice usn-3172-1 advisory
+threatmeter debian dsa-3752-1 pcsc-lite security update
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 exim4 vulnerability usn-3164-1 nessus
+vuln linux kernel cve-2016-5195 local privilege escalation vulnerability
+ubuntu 14.04 lts 16.04 lts 16.10 oxide-qt vulnerabilities usn-3153-1 nessus
+vuln linux kernel cve-2015-8104 denial of service vulnerability
+it always being about bitcoins shadow brokers retire infosecmag
+suse sles11 security update libvncserver suse-su-2017 0104-1 nessus
+debian security advisory 3758-1 packetstorm
+vuln linux kernel ack challenge information disclosure vulnerability
+threatmeter desh universal cms sql injection
+debian dla-779-1 tomcat7 security update
+vuln linux kernel cve-2016-6130 local information disclosure vulnerability bugtraq
+33 000 databases fall in mongodb massacre cybercrime
+oracle linux 6 memcached elsa-2016-2820 nessus
+threatmeter oracle mysql server 5.5.53 5.6.34 5.7.16 ddl denial of service
+elasticsearch ransomware attacks now number in the thousands news
+ubuntu security notice usn-3170-1 advisory
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 thunderbird vulnerabilities usn-3141-1
+mysql cluster 7.4.x lt 7.4.13 multiple vulnerabilities january 2017 cpu
+opensuse security update icoutils opensuse-2017-104 nessus
+unprotected mongodb installations child s play for hackers
+oracle mysql server 5.5.53 5.6.34 5.7.16 myisam unknown vulnerability
+oraclevm 3.2 unbreakable etc ovmsa-2017-0006 nessus
+cve-2017-2584 arch x86 kvm emulate.c in the linux kernel through 4.9.3 allows local users to obtain sensitive info
+vuln linux kernel cve-2017-5548 local denial of service vulnerability
+ngo website script sql injection
+centos 7 ipsilon cesa-2016 2809
+oracle mysql server 5.5.53 5.6.34 5.7.16 optimizer denial of service
+vuln linux kernel multiple remote denial of service vulnerability
+oracle mysql server up to 5.7.16 encryption unknown vulnerability
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 tomcat6 tomcat7 tomcat8 vulnerabilities usn-3177 nessus
+linux x86 x64 mkdir ajit 755 shellcode packetstorm
+rt eduardkovacs following ransom attacks on mongodb and elasticsearch databases couchdb and hadoop are now under attack
+centos 7 qemu-kvm cesa-2017 0083
+oracle mysql server 5.5.53 5.6.34 5.7.16 packaging unknown vulnerability
+opensuse security update qemu opensuse-2017-116 nessus
+vuln linux kernel multiple remote denial of service vulnerability
+vuln linux kernel cve-2017-5548 local denial of service vulnerability
+vuln linux kernel cve-2015-5307 denial of service vulnerability
+threatmeter oracle mysql server up to 5.7.16 x plugin unknown vulnerability
+webapps image and video script sql injection exploitdb
+threatmeter pwn2own 2017 takes aim at linux servers and web browsers
+mysql cluster 7.3.x lt 7.3.15 multiple vulnerabilities january 2017 cpu
+ubuntu security notice usn-3176-1 advisory
+mysql cluster 7.4.x lt 7.4.13 multiple vulnerabilities january 2017 cpu nessus
+vuln linux kernel cve-2016-10150 denial of service vulnerability
+threatmeter linux kernel 4.8.2 denial of service overflow memory corruption vulnerability
+suse sled12 sles12 security update gstreamer-plugins-base suse-su-2017 0189-1 nessus
+threatmeter mysql cluster 7.2.x lt 7.2.20 general subcomponent dos january 2017 cpu
+debian dsa-3767-1 mysql-5.5 security update nessus
+critical rhsa-2017 0184 mysql security update
+vuln linux kernel cve-2017-5577 remote buffer overflow vulnerability bugtraq
+linux gafgyt.b tr exploits netcore vulnerability fortinet
+threatmeter mysql cluster 7.3.x lt 7.3.9 general subcomponent dos january 2017 cpu
+bugtraq security dsa 3767-1 mysql-5.5 security update
+vuln linux kernel multiple local memory corruption vulnerabilities
+bugtraq security dsa 3767-1 mysql-5.5 security update bugtraq
+vuln linux kernel cve-2016-10150 denial of service vulnerability bugtraq
+vuln linux kernel cve-2017-2583 privilege escalation vulnerability
+linux x86 64 tcp 5600 bind shellcode packetstorm
+vuln linux kernel multiple remote denial of service vulnerability
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 apport vulnerabilities usn-3157-1
+citrix xenserver multiple vulnerabilities ctx218775 nessus
+vuln linux kernel cve-2017-5546 local denial of service vulnerability bugtraq
+vuln linux kernel cve-2017-5577 remote buffer overflow vulnerability
+suricata idpe 3.2 packetstorm
+threatmeter mysql cluster 7.2.x lt 7.2.26 multiple dos january 2017 cpu
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 nvidia-graphics-drivers-304 and nvidia-graphics-drivers-340 vul
+critical cve-2015-3188 the ui daemon in apache storm 0.10.0 before
+debian dla-795-1 tiff security update nessus
+mysql cluster 7.3.x lt 7.3.9 general subcomponent dos january 2017 cpu
+vuln linux kernel tcp xmit retransmit queue function use after free denial of service vulnerability
+vuln nessus cve-2016-9260 html injection vulnerability bugtraq
+debian security advisory 3743-2 packetstorm
+threatmeter vuln linux kernel cve-2017-2583 privilege escalation vulnerability
+opensuse security update xtrabackup opensuse-2017-132 nessus
+vuln linux kernel cve-2016-10153 local denial of service vulnerability
+oracle linux 6 mysql elsa-2017-0184
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 gst-plugins-good0.10 gst-plugins-good1.0 vulnerab
+bugtraq cisco security advisory cisco webex browser extension remote code execution vulnerability bugtraq
+mysql cluster 7.2.x lt 7.2.27 ndbapi subcomponent buffer overflow january 2017 cpu
+threatmeter vuln linux kernel sound core pcm lib.c local use after free memory corruption vulnerability
+vuln linux kernel cve-2017-5548 local denial of service vulnerability bugtraq
+threatmeter glsa-201701-51 dbd mysql multiple vulnerabilities
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 pcsc-lite vulnerability usn-3176-1 nessus
+debian dla-795-1 tiff security update
+gentoo linux security advisory 201701-49 advisory
+threatmeter bugtraq security dsa 3767-1 mysql-5.5 security update
+threatmeter vuln linux kernel cve-2017-5548 local denial of service vulnerability
+ubuntu 12.04 lts 14.04 lts 16.04 lts python2.7 python3.2 python3.4 python3.5 vulnerabilities nessus
+database attacks spread to couchdb hadoop and elasticsearch servers
+vuln linux kernel cve-2016-9576 use after free memory corruption vulnerability
+threatmeter ubuntu s crash report tool allows remote code execution
+centos 6 7 expat cesa-2016 2824
+vuln linux kernel cve-2017-5551 local denial of service vulnerability
+threatmeter centos 7 memcached cesa-2016 2819
+several thousand linux devices infected with the linux.proxy.10 trojan
+threatmeter vuln mongodb cve-2016-3104 remote denial of service vulnerability
+debian dsa-3771-1 firefox-esr security update
+debian dla-738-1 spip security update
+ubuntu security notice usn-3148-1 advisory
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 firefox vulnerabilities usn-3155-1
+0daytoday linux x86 64 execve bin sh shellcode 22 bytes shellcode 0day exploit
+debian security advisory 3725-1 advisory
+threatmeter mysql enterprise monitor 3.2.x lt 3.2.2.1075 multiple vulnerabilities january 2017 cpu
+debian dsa-3772-1 libxpm security update nessus
+oraclevm 3.3 3.4 mysql ovmsa-2017-0035 nessus
+vuln linux kernel sound core pcm lib.c local use after free memory corruption vulnerability
+threatmeter vuln linux kernel cve-2017-5551 local denial of service vulnerability
+centos 7 bind cesa-2016 2615
+trojan transforms linux devices into proxies for malicious traffic
+threatmeter tenable nessus input validation flaw lets remote users conduct cross-site scripting attacks
+ubuntu security notice usn-3138-1 advisory
+ubuntu security notice usn-3141-1 advisory
+threatmeter debian dla-725-1 tzdata new upstream version
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 c-ares vulnerability usn-3143-1
+threatmeter tenable nessus up to 6.9.2 cross site scripting cve-2017-5179
+threatmeter debian dsa-3738-1 tomcat7 security update
+remote code execution rce attacks on apache struts
+r t 27 000 mongodb servers receive ransom demand after having their data wiped here s what you need to know
+nginx debian-based gentoo distros root privilege escalation cve-2016-1247 update fulldisclosure
+mongodb hackers now sacking elasticsearch theregister
+debian dsa-3753-1 libvncserver security update
+mongodb ransomware attacks
+debian dla-721-1 libgc security update
+debian dla-747-1 libupnp security update nessus
+debian security advisory 3743-1 packetstorm
+vuln linux kernel cve-2016-9576 use after free memory corruption vulnerability bugtraq
+vuln linux kernel cve-2017-5551 local denial of service vulnerability
+centos 7 memcached cesa-2016 2819 nessus
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 imagemagick vulnerabilities usn-3142-1
+ubuntu security notice usn-3139-1 advisory
+ubuntu security notice usn-3146-1 advisory
+dark reading mongodb attack shows off cyber extortionists new tricks tripwire
+fedora 25 2 docker 2017-dbc2b618eb nessus
+threatmeter opensuse security update perl-dbd-mysql opensuse-2017-130
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 nss vulnerabilities usn-3163-1
+this week in open source news linux amp open source vulnerabilities in 2017
+threatmeter debian dla-766-1 libcrypto security update
+oracle mysql cluster 7.2.25 7.3.14 7.4.12 cluster ndbapi denial of service
+hacker held open mongodb databases for ransom
+vuln debian cve-2016-1253 remote command injection vulnerability
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 nvidia-graphics-drivers-304 and nvidia-graphics-drive nessus
+threatmeter debian dla-779-1 tomcat7 security update
+ubuntu security notice usn-3155-1 advisory
+threatmeter mongodb ransomware attacks
+debian security advisory 3765-1 advisory
+ubuntu security notice usn-3173-1 advisory
+debian dla-779-1 tomcat7 security update nessus
+debian dsa-3726-1 imagemagick security update
+debian dla-725-1 tzdata new upstream version
+centos 5 6 7 thunderbird cesa-2016 2825 nessus
+threatmeter debian dla-735-1 gst-plugins-base0.10 security update
+mongodb hackers now sacking elasticsearch
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 vim vulnerability usn-3139-1
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 apport vulnerabilities usn-3157-1
+rt tripwireinc unprotected mongodb databases wiped and held for ransom by attacker via dmbisson security infos
+threatmeter ubuntu 16.04 lts 16.10 python-cryptography vulnerability usn-3138-1
+ubuntu security notice usn-3144-1 advisory
+centos 7 qemu-kvm cesa-2017 0083 nessus
+vuln apache struts cve-2016-1181 remote code execution vulnerability
+threatmeter high cve-2016-7545 selinux policycoreutils allows local users to
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 imagemagick vulnerabilities usn-3142-1
+rt campuscodi so basically more than 50 of all internet-accessible mongodb servers have been compromised.
+threatmeter cross-site scripting en nessus
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 moin vulnerabilities usn-3137-1
+mongodb servers now a ransomware target
+insecure mongodb configuration leads to boom in ransom attacks anomali
+threatmeter android debian and ubuntu top most vulnerable products chart in 2016
+threatmeter vigilnce snort executing dll code via tcapi.dll
+mongodb databases under attack worldwide l
+debian security advisory 3753-1 advisory
+ubuntu security notice usn-3157-1 advisory
+threatmeter ubuntu 16.10 apt regression usn-3156-2
+ubuntu security notice usn-3150-1 advisory
+ubuntu security notice usn-3169-1 advisory
+centos 6 ghostscript cesa-2017 0014
+remote code execution bug found in ubuntu quantal threatpost
+threatmeter vuln debian cve-2016-1253 remote command injection vulnerability
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 exim4 vulnerability usn-3164-1
+apache zookeeper 3.4.8 overflow vulnerability
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 ghostscript vulnerabilities usn-3148-1
+cve-2016-8645 the tcp stack in the linux kernel before 4.8.10 mishandles skb truncation which allows local users
+vuln linux kernel cve-2016-8666 stack overflow denial of service vulnerability
+threatmeter vuln linux kernel cve-2016-8650 null pointer deference local denial of service vulnerability
+oracle mysql server 5.5.53 5.6.34 5.7.16 dml denial of service
+cve-2016-9644 the get user asm ex macro in arch x86 include asm uaccess.h in the linux kernel 4.4.22 through 4.4
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 bind9 vulnerabilities usn-3172-1
+microsoft security bulletin summary for january 2017 packetstorm
+mongodb attacks jump from hundreds to 28 000 in just days threatpost
+mongodb ransom attack just the beginning
+vuln linux kernel multiple remote denial of service vulnerability
+threatmeter vuln linux kernel cve-2016-10150 denial of service vulnerability
+threatmeter vuln linux kernel crypto mcryptd.c denial of service vulnerability
+threatmeter vuln oracle mysql cve-2016-6662 remote code execution vulnerability
+vuln linux kernel cve-2015-5307 denial of service vulnerability
+bugtraq security dsa 3767-1 mysql-5.5 security update
+vuln linux kernel crypto mcryptd.c denial of service vulnerability bugtraq

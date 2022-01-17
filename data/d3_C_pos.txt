@@ -1,0 +1,221 @@
+cve-2017-2983 adobe shockwave versions 12.2.7.197 and earlier have an insecure library loading dll hijacking vul
+chrome backs out of tls 1.3 support after proxy issues
+na ms17-020 security update for windows dvd maker 3208223
+threatmeter shellcode windows x86 hide console window shellcode 182 bytes
+ms17-021 security update for windows directshow 4010318
+microsoft windows uniscribe multiple bugs let remote users obtain potentially sensitive information and execute ar
+cve-2016-8027 sql injection vulnerability in core services in intel security mcafee epolicy orchestrator epo 5.3
+sap businessobjects financial consolidation input validation flaw lets remote users conduct cross-site scripting a
+cve-2017-2999 adobe flash player versions 24.0.0.221 and earlier have an exploitable memory corruption vulnerabili
+threatmeter cve-2017-3001 adobe flash player versions 24.0.0.221 and earlier have an exploitable use after free v
+0daytoday bull ibm aix clusterwatch watchware multiple vulnerabilities webapps exploits vulnerabilities
+cve-2017-3000 adobe flash player versions 24.0.0.221 and earlier have a vulnerability in the random number generat
+threatmeter microsoft windows up to server 2016 privilege escalation cve-2017-0102
+microsoft windows color management information disclosure cve-2017-0061
+microsoft windows up to server 2016 privilege escalation cve-2017-0102
+operation rosehub patches java vulnerabilities in open source projects google employees recently infosec
+microsoft windows 10 server 2016 device guard bypass privilege escalation
+chrome users on windows mac being targeted by font wasn t found malware report
+vuln microsoft windows hyper-v cve-2017-0021 memory corruption vulnerability
+vuln microsoft windows vu 867968 memory corruption vulnerability
+vuln microsoft internet explorer and edge cve-2017-0037 remote memory corruption vulnerability bugtraq
+threatmeter ms17-008 security update for windows hyper-v 4013082
+adobe fixed critical vulnerabilities in flash and shockwave
+ms17-014 security update for microsoft office 4013241 macos
+ms17-012 critical security update for microsoft windows 4013078 version 1.0
+google publishes second unpatched windows 10 flaw in a month
+microsoft windows uniscribe information disclosure cve-2017-0125
+threatmeter rhel 5 java-1.7.0-ibm rhsa-2017 0337
+threatmeter microsoft windows uniscribe information disclosure cve-2017-0114
+rhel 6 red hat jboss web server 3.1.0 rhsa-2017 0455
+vuln adobe flash player cve-2017-3000 information disclosure vulnerability
+threatmeter vuln adobe flash player cve-2017-3000 information disclosure vulnerability
+threatmeter ms17-016 security update for windows iis 4013074
+vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities
+cve-2017-2992 apsb17-04 adobe flash player heap overflow remote code execution iii mcafee
+windows insider build 15055 released for pc and mobile today microsoft released insider preview build infosec
+microsoft internet explorer 10 11 buffer overflow cve-2017-0037
+vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities adobe infosec
+red hat security advisory 2017-0498-01 packetstorm
+microsoft internet explorer bugs let remote users obtain potentially sensitive information execute arbitrary code
+vuln microsoft office cve-2017-0029 denial of service vulnerability
+vuln adobe flash player apsb17-07 multiple memory corruption vulnerabilities bugtraq
+google releases security update for chrome original release date march 09 2017 google has released infosec
+googlechrome update fixes high severity flaws pays out 38k
+google tells world how to crash microsoft internet explorer and edge browsers google s project zero infosec
+threatmeter windows server message block request handling flaws let remote users obtain potentially sensitive inf
+threatmeter microsoft windows uniscribe multiple bugs let remote users obtain potentially sensitive information a
+rt odisseus attacking windows based systems using the still unpatched smb vulnerability with a php file h t a de pasquale
+microsoft windows uniscribe buffer overflow cve-2017-0087
+sap pushes to patch risky hana security flaws before hackers strike
+0daytoday microsoft windows com session moniker privilege escalation ms17-012 exploit 0day exploit
+threatmeter 0daytoday bull ibm aix clusterwatch watchware multiple vulnerabilities webapps exploits vuln
+microsoft windows uniscribe information disclosure cve-2017-0111
+threatmeter rhel 5 6 java-1.6.0-ibm rhsa-2017 0338
+threatmeter 0daytoday adobe flash metadata parsing out-of-bounds read exploit dos exploits 0day exploit
+vuln microsoft windows uniscribe cve-2017-0086 remote code execution vulnerability
+vuln microsoft windows uniscribe cve-2017-0084 remote code execution vulnerability microsoft windows infosec
+0daytoday adobe flash movieclip attach init object use-after-free exploit dos exploits 0day exploit
+cve-2017-2997 adobe flash player versions 24.0.0.221 and earlier have an exploitable buffer overflow underflow v
+threatmeter 0daytoday adobe flash movieclip attach init object use-after-free exploit dos exploits 0day
+threatmeter vuln sap travel management cross site scripting vulnerability
+vuln sap security diagnostic tool unspecified cross site scripting vulnerability bugtraq
+vuln red hat jboss enterprise application platform cve-2016-8657 local privilege escalation vulnerability bugtraq
+vuln sap netweaver visual composer denial of service vulnerability bugtraq
+ms17-016 important security update for windows iis 4013074 version 1.0 severity rating infosec
+na cve-2017-2983 adobe shockwave versions 12.2.7.197 and earlier
+na cve-2017-2997 adobe flash player versions 24.0.0.221 and
+microsoft windows up to server 2016 uniscribe information disclosure
+vuln oracle java se cve-2017-3272 remote security vulnerability
+microsoft excel 2007 sp3 buffer overflow cve-2017-0052
+microsoft internet explorer 9 10 11 information disclosure cve-2017-0008
+local microsoft windows com session moniker privilege escalation ms17-012 exploitdb
+threatmeter 0daytoday ibm websphere remote code execution java deserialization exploit remote exploits 0day
+ms17-009 critical security update for microsoft windows pdf library 4010319 version 1.0
+red hat security advisory 2017-0342-01 advisory
+chrome extension brings encryption to gmail hitb
+vuln adobe flash player cve-2017-2997 buffer overflow vulnerability
+vuln oracle java se cve-2017-3289 remote security vulnerability
+adobe fixes six code execution bugs in flash threatpost
+microsoft internet explorer 11 engine cross site scripting obtain information vulnerability
+adobe flash player for mac lt 24.0.0.221 multiple vulnerabilities apsb17-07 nessus
+threatmeter rhel 5 kernel rhsa-2017 0347
+threatmeter microsoft windows 10 server 2016 win32k privilege escalation
+windows 10 option to block installation of win32 apps
+several high risk 0-day vulnerabilities affecting sap hana found
+adobe fixed critical vulnerabilities in flash and shockwave adobe has fixed several critical issues infosec
+microsoft windows 8.1 rt 8.1 10 server 2012 server 2012 r2 win32k privilege escalation
+ms17-023 security update for adobe flash player 4014329
+vuln sap travel management cross site scripting vulnerability sap travel management cross site infosec
+threatmeter wikileaks us spying files how windows users can protect themselves from the cia
+rhel 5 kvm rhsa-2017 0454 nessus
+red hat security advisory 2017-0531-01 advisory
+vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities
+red hat security advisory 2017-0340-01 advisory
+threatmeter google goes public with high severity bug in microsoft edge and internet explorer
+threatmeter microsoft windows up to server 2016 win32k privilege escalation
+rhel 7 red hat jboss web server 3.1.0 rhsa-2017 0456 nessus
+microsoft windows 10 1607 overflow gain privileges vulnerability
+microsoft windows com session moniker privilege escalation
+security firm issues patch for another windows 0-day
+ms17-021 important security update for windows directshow 4010318 version 1.0 severity rating infosec
+threatmeter microsoft internet explorer 9 10 11 information disclosure cve-2017-0008
+vuln oracle java se cve-2017-3289 remote security vulnerability
+threatmeter vuln microsoft windows uniscribe cve-2017-0084 remote code execution vulnerability
+vuln microsoft windows uniscribe cve-2017-0086 remote code execution vulnerability
+red hat security advisory 2017-0457-01 advisory
+vuln microsoft windows cve-2017-0016 memory corruption vulnerability
+threatmeter microsoft windows com session moniker privilege escalation
+bull ibm aix clusterwatch watchware file write command injection
+adobe flash player up to 24.0.0.221 actionscript 2 camera object use-after-free buffer overflow
+threatmeter ms17-017 security update for windows kernel 4013081
+operation rosehub patches java vulnerabilities in open source projects
+uncovering cross-process injection with windows defender atp
+some critical vulns six that can lead to rce being patched in adobe flashplayer this morning story to come.
+threatmeter vuln sap netweaver visual composer denial of service vulnerability
+chrome font wasn t found malware targets windows users
+threatmeter vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities
+vuln sap netweaver information disclosure vulnerability bugtraq
+intel mcafee agent up to 4.8.0 patch 2 epo server spoofing
+threatmeter ms17-006 critical cumulative security update for internet explorer 4013073 version 1.0
+rhel 5 kernel rhsa-2017 0347
+rhel 6 7 java-1.8.0-ibm rhsa-2017 0462
+google releases security update for chrome
+sap businessobjects financial consolidation 10.0.0.1933 frameset.htm cross site scripting
+suse sled12 sles12 security update libquicktime suse-su-2017 0610-1
+threatmeter microsoft word excel 2007 sp3 buffer overflow cve-2017-0006
+vuln microsoft windows hyper-v cve-2017-0076 remote denial of service vulnerability
+threatmeter ms17-006 cumulative security update for internet explorer 4013073
+threatmeter microsoft windows up to server 2016 uniscribe information disclosure
+vuln sap enterprise portal styleservice cross site scripting vulnerability
+threatmeter vuln sap security diagnostic tool unspecified cross site scripting vulnerability
+vuln microsoft internet explorer and edge cve-2017-0037 remote memory corruption vulnerability infosec
+microsoft edge internet explorer handlecolumnbreakoncolumnspanningelement type confusion cxsecurity
+vuln oracle java se cve-2017-3289 remote security vulnerability oracle java se cve-2017-3289 remote infosec
+vuln oracle java se cve-2017-3289 remote security vulnerability
+threatmeter microsoft windows vista sp2 7 sp1 server 2008 sp2 privilege escalation
+rhel 5 6 7 thunderbird rhsa-2017 0498
+microsoft issues 30 day warning for windows vista eol
+vuln microsoft windows hyper-v cve-2017-0098 remote denial of service vulnerability
+vuln microsoft windows hyper-v cve-2017-0097 remote denial of service vulnerability
+vuln oracle java se and jrockit cve-2016-5547 remote security vulnerability
+sap sapconsole 7.30 remote code execution vulnerability
+dos adobe flash metadata parsing out-of-bounds read exploitdb
+ms17-017 important security update for windows kernel 4013081 version 1.0 severity rating infosec
+vuln microsoft windows hyper-v cve-2017-0097 remote denial of service vulnerability
+threatmeter vuln sap hana unspecified denial of service vulnerability
+threatmeter latest google chrome update patches 9 high severity bugs
+microsoft windows server 2008 elevation gain privileges vulnerability
+google chrome 56 s crypto tweak borked thousands of computers using bluecoat security theregister
+vuln microsoft windows hyper-v cve-2017-0076 remote denial of service vulnerability microsoft windows infosec
+threatmeter adobe flash player 11.2.202.635 linux execute code vulnerability
+adobe patches vulnerabilities in flash shockwave
+patch tuesday delayed update arrives as microsoft signals end of windows vista welcome back delayed infosec
+ms17-017 important security update for windows kernel 4013081 version 1.0
+ms17-006 critical cumulative security update for internet explorer 4013073 version 1.0
+vuln microsoft windows graphics component cve-2017-0073 local information disclosure vulnerability bugtraq
+microsoft windows uniscribe information disclosure cve-2017-0115
+threatmeter adobe fixed critical vulnerabilities in flash and shockwave
+vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities bugtraq
+vuln adobe flash player and air apsb16-08 multiple unspecified integer overflow vulnerabilities
+vuln adobe flash player cve-2017-3000 information disclosure vulnerability
+threatmeter microsoft windows uniscribe information disclosure cve-2017-0122
+rhel 5 6 7 thunderbird rhsa-2017 0498 nessus
+threatmeter ms16-133 microsoft office memory denial of service 3199168
+vuln microsoft windows graphics component cve-2017-0073 local information disclosure vulnerability
+threatmeter microsoft windows server 2016 bypass a restriction or similar obtain information vulnerability
+threatmeter spora ransomware disguises under fake chrome font pack update
+vuln red hat cloudforms management engine cve-2017-2632 privilege escalation vulnerability
+adobe fixes six code execution bugs in flashplayer patchtuesday
+threatmeter adobe flash avc header slicing heap overflow
+webapps bull ibm aix clusterwatch watchware multiple vulnerabilities exploitdb
+vuln adobe flash player cve-2017-3000 information disclosure vulnerability
+ms17-016 important security update for windows iis 4013074 version 1.0
+ms17-006 critical cumulative security update for internet explorer 4013073 version 1.0
+vuln adobe flash player apsb17-07 multiple use after free remote code execution vulnerabilities
+sap businessobjects financial consolidation 10.0.0.1933 cross site scripting exploit
+chrome 56 crypto upgrade makes thousands of computers using bluecoat to fail google s latest chrome infosec
+vuln microsoft windows graphics component cve-2017-0108 remote code execution vulnerability bugtraq
+threatmeter microsoft windows up to server 2016 uniscribe buffer overflow
+adobe flash player up to 24.0.0.221 primetime tvsdk buffer overflow
+several high risk 0-day vulnerabilities affecting sap hana found helpnetsecurity
+vuln microsoft windows graphics component cve-2017-0073 local information disclosure vulnerability bugtraq
+sap pushes 25 patches and two patch patches
+red hat security advisory 2017-0535-01 advisory
+threatmeter vuln oracle java se and jrockit cve-2016-5547 remote security vulnerability
+medium rhsa-2017 0462 java-1.8.0-ibm security update
+vuln google chrome prior to 57.0.2987.98 multiple security vulnerabilities
+vuln microsoft windows hyper-v cve-2017-0076 remote denial of service vulnerability bugtraq
+ms17-017 important security update for windows kernel 4013081 version 1.0
+ms17-014 important security update for microsoft office 4013241 version 1.0
+microsoft windows uniscribe information disclosure cve-2017-0112
+ms17-023 critical security update for adobe flash player 4014329 version 1.0
+vuln adobe flash player cve-2017-2997 buffer overflow vulnerability
+vuln oracle java se cve-2016-5549 remote security vulnerability oracle java se cve-2016-5549 remote infosec
+red hat security advisory 2017-0454-01 advisory
+removing admin rights fixes 94 of all windows critical vulnerabilities update
+sap businessobjects financial consolidation 10.0.0.1933 cross site scripting packetstorm
+vuln oracle java se and jrockit cve-2016-5547 remote security vulnerability bugtraq
+security alert a17-03-04 multiple vulnerabilities in adobe flash player
+apsb17-01 adobe acrobat reader type confusion remote code execution
+vuln sap hana unspecified denial of service vulnerability
+news in brief aws fail hits services youtube launches streaming service windows gets walled garden infosec
+vuln oracle java se and jrockit cve-2017-3252 remote security vulnerability
+sap rushes to patch cyber security flaws in hana
+adobe flash player lt 24.0.0.221 multiple vulnerabilities apsb17-07
+credit card stealer disguises as google chrome browser
+google discloses unpatched flaw in edge internet explorer
+threatmeter vuln oracle java se cve-2017-3289 remote security vulnerability
+windows vista support officially ending
+microsoft windows 8.1 rt 8.1 10 server 2012 server 2012 r2 win32k privilege escalation
+vuln sap hana unspecified denial of service vulnerability
+shellcode windows x86 executable directory search shellcode 130 bytes exploitdb
+rhel 7 policycoreutils rhsa-2017 0536 nessus
+vuln microsoft windows uniscribe cve-2017-0084 remote code execution vulnerability bugtraq
+red hat security advisory 2017-0336-01 advisory
+sap patches critical hana vulnerability that allowed full access
+sap businessobjects financial consolidation 10.0.0.1933 cross site scripting
+threatmeter microsoft windows vista sp2 7 sp1 server 2008 sp2 registry privilege escalation
+red hat security advisory 2017-0526-01 advisory
+microsoft locks ryzen kaby lake users out of updates on windows 7 8.1
+vuln microsoft windows hyper-v cve-2017-0098 remote denial of service vulnerability microsoft windows infosec

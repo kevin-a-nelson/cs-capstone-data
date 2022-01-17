@@ -1,0 +1,312 @@
+openstack ocata announced then briefly withheld
+cve-2017-5933 citrix netscaler adc and netscaler gateway 10.5 before build 65.11 11.0 before build 69.12 69.123
+citrix netscaler nonce generation flaw lets remote users obtain potentially sensitive information on the target sy
+cve-2017-5548 drivers net ieee802154 atusb.c in the linux kernel 4.9.x before 4.9.6 interacts incorrectly with the
+threatmeter fedora 25 3 mariadb 2017-801e01d1ed
+cve-2017-2583 the load segment descriptor implementation in arch x86 kvm emulate.c in the linux kernel before 4.9
+threatmeter cve-2017-5986 race condition in the sctp wait for sndbuf function in net sctp socket.c in the linux k
+cve-2017-5551 the simple set acl function in fs posix acl.c in the linux kernel before 4.9.6 preserves the setgid
+0daytoday mysql file uploader 1.0 id parameter sql injection vulnerability webapps exploits vulnerability
+0daytoday linux x86 multi dual mode execve amp quot bin sh amp quot null 0 shell 0day exploit
+cve-2016-5541 mysql cluster
+cryptkeeper bug the linux encryption app cryptkeeper has a rather stunning security bug the single infosec
+cve-2016-5590 mysql enterprise monitor
+new infosec products of the week february 3 2017 new approach to continuous docker container security infosec
+protocol injections hit python and java subscribe now
+facepalm apparently linux encryption app cryptkeeper has a universal decryption password the letter p
+cve-2017-3302 crash in libmysqlclient.so in oracle mysql before 5.6.21 and 5.7.x before 5.7.5 and mariadb through
+linux project patches 11-year-old security flaw that gives attackers root access the linux team has infosec
+openvas vulnerability assessment install on kali linux howtoforge this tutorial documents the process of i
+mcafee epolicy orchestrator datachannel blind sql injection vulnerability vuln antivirus infosec
+threatmeter shellcode linux multi dual mode reverse shell shellcode 129 bytes
+threatmeter links 6 2 2017 linux 4.10 rc7 next debian release frozen
+threatmeter linux kernel up to 4.9.8 ext4 image fs ext4 super.c ext4 fill super denial of service
+windows trojan spreads mirai to linux devices securityweek
+cve-2016-9962 race condition in docker engine before 1.12.6 might allow local root users in a container to gain pr
+threatmeter shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes
+shellcode linux x86 selinux permissive mode switcher shellcode 45 bytes
+how to solve selinux issues with ease using selinux alert browser
+threatmeter cve-2016-2317 debian linux graphicsmagick leap linux enterprise debuginfo linux enterprise softw
+rhel 7 jboss core services rhsa-2017 0194 nessus
+kurdish group hacks opensuse linux website
+threatmeter cve-2016-7449 graphicsmagick leap opensuse
+threatmeter cve-2017-3302 crash in libmysqlclient.so in oracle mysql before 5.6.21 and 5.7.x before 5.7.5 and mar
+how to harden mysql security with a single command
+cve-2017-6001 race condition in kernel events core.c in the linux kernel before 4.9.7 allows local users to gain p
+threatmeter linux kernel up to 4.9.9 net ipv4 ip sockglue.c ipv4 pktinfo prepare denial of service
+threatmeter na cve-2016-2779 runuser in util-linux allows local users to
+linux kernel up to 4.9.9 time subsystem proc timer list timer stats timer set start info information disclosure
+how to harden mysql security with a single command
+linux ip6gre err invalid reads
+cve-2017-3419 vulnerability in the oracle crm technical foundation component of oracle e-business suite subcompon
+threatmeter cve-2017-5669 the do shmat function in ipc shm.c in the linux kernel through 4.9.12 does not restrict
+threatmeter cve-2017-2583 the load segment descriptor implementation in arch x86 kvm emulate.c in the linux kerne
+threatmeter linux kernel up to 4.9.6 videocore drm driver vc4 gem.c vc4 get bcl denial of service
+0daytoday linux x86 multi dual mode execve amp quot bin sh amp quot null 0 shell 0day exploit
+rhel 6 jboss-ec2-eap rhsa-2017 0250
+threatmeter na cve-2017-5972 the tcp stack in the linux kernel 3.x does not
+threatmeter ubuntu 16.04 lts linux linux-raspi2 linux-snapdragon vulnerabilities usn-3189-1
+threatmeter opensuse security update libplist opensuse-2017-230
+cve-2016-7448 graphicsmagick leap opensuse
+aix java advisory java oct2016 advisory.asc october 2016 cpu
+cve-2017-3443 vulnerability in the oracle common applications component of oracle e-business suite subcomponent
+cve-2017-5025 ffmpeg in google chrome prior to 56.0.2924.76 for linux windows and mac failed to perform proper b
+vuln linux kernel cve-2016-4565 local security bypass vulnerability
+oracle e-business suite up to 12.2.6 marketing privilege escalation
+vuln linux kernel usb device descriptor local denial of service vulnerability
+local root exploit for the double-free in the linux kernel dccp implementation cve-2017-6074 exploitdev infosec
+cve-2017-6074 a new 11-year old linux kernel flaw discovered securityaffairs
+threatmeter na cve-2017-5669 the do shmat function in ipc shm.c in the linux
+vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability
+suse sled12 sles12 security update opus suse-su-2017 0436-1
+threatmeter cve-2017-3443 vulnerability in the oracle common applications component of oracle e-business suite s
+suse sles11 security update kernel suse-su-2017 0437-1 nessus
+oracle e-business suite up to 12.2.6 marketing privilege escalation
+threatmeter rhel 6 jboss-ec2-eap rhsa-2017 0250
+nvidia linux gpu display driver kernel mode layer denial of service
+vuln apache tomcat cve-2016-6817 denial of service vulnerability
+opensuse security update firebird opensuse-2017-279
+oraclevm 3.3 libtiff ovmsa-2017-0037 nessus
+suse sled12 sles12 security update gnutls suse-su-2017 0348-1 nessus
+oracle applications dba 12.2.6 remote code execution vulnerability
+na cve-2016-2779 runuser in util-linux allows local users to
+threatmeter suse sles11 security update kernel suse-su-2017 0494-1
+threatmeter suse sled12 sles12 security update spice suse-su-2017 0400-1
+0daytoday linux x86 multi dual mode reverse shell shellcode 129 bytes shellcode 0day exploit
+threatmeter na cve-2016-1880 the linux compatibility layer in the kernel in
+oracle linux 7 bind elsa-2017-0276 nessus
+threatmeter cve-2016-10150 linux kernel
+threatmeter ftp injection flaws in java and python allows firewall bypass
+threatmeter vuln linux kernel cve-2017-5551 local denial of service vulnerability
+cve-2016-8684 debian linux graphicsmagick opensuse
+threatmeter suse sles12 security update squid suse-su-2017 0128-1
+vuln oracle vm virtualbox cve-2017-3332 local security vulnerability bugtraq
+threatmeter linux kernel 4.3.6 denial of service gain privileges vulnerability
+samsung knox patch mongodb audit crypto in php podcast security
+threatmeter na cve-2017-5548 drivers net ieee802154 atusb.c in the linux
+linux kernel up to 4.8.12 virt kvm kvm main.c kvm ioctl create device denial of service
+cve-2017-5967 the time subsystem in the linux kernel through 4.9.9 when config timer stats is enabled allows loc
+java and python plagued by bug allowing attackers to avoid firewalls
+threatmeter f5 networks big-ip linux kernel vulnerability k17309
+threatmeter java and python plagued by bug allowing attackers to avoid firewalls
+java and python ftp attacks can punch holes through firewalls networkworld
+java python bugs allow attackers to circumvent firewalls
+threatmeter cve-2017-3439 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite
+vuln linux kernel kvm kvm pit load count function divide by zero denial of service vulnerability
+protecting linux devices with verified boot from rom to userspace
+threatmeter cve-2017-5880 splunk web in splunk enterprise versions 6.5.x before 6.5.2 6.4.x before 6.4.5 6.3.x
+java and python ftp attacks can punch holes through firewalls
+na cve-2017-5548 drivers net ieee802154 atusb.c in the linux
+opensuse security update libressl opensuse-2017-222
+debian dla-819-1 mysql-5.5 security update
+a wave of ransom attacks is targeting mysql databases worldwide
+java python bugs allow attackers to circumvent firewalls the unpatched vulnerabilities can be exploited infosec
+java and python have unpatched firewall-crossing ftp snafu
+threatmeter oracle customer relationship management technical foundation 12.1.1 remote code execution vulnerabili
+cryptkeeper bug the linux encryption app cryptkeeper has a rather stunning security bug the single infosec
+microsoft seeks to capitalize on recent spate of mongodb ransomware with its documentdb pitch microsoft infosec
+linux encryption app cryptkeeper has universal password p and that should be the end of that shouldn infosec
+cve-2016-5711 netapp virtual storage console for vmware vsphere before 6.2.1 uses a non-unique certificate which
+cve-2017-6074 the dccp rcv state process function in net dccp input.c in the linux kernel through 4.9.11 mishandle
+linux kernel up to 4.9.5 tmpfs system fs posix acl.c simple set acl privilege escalation
+java and python ftp attacks can punch holes through firewalls
+linux project patches 11-year-old security flaw that gives attackers root access
+cve-2017-5972 the tcp stack in the linux kernel 3.x does not properly implement a syn cookie protection mechanism
+threatmeter cve-2016-8683 debian linux graphicsmagick opensuse
+database ransom attacks have now hit mysql servers
+f5 networks big-ip linux kernel vulnerability k17309
+suse sles11 security update kernel suse-su-2017 0437-1
+lynis security auditing and hardening tool for linux unix systems
+shellcode linux reverse shell shellcode 66 bytes
+oracle linux 6 7 openssl elsa-2017-0286
+bugtraq security dsa 3787-1 tomcat7 security update bugtraq
+threatmeter rhel 7 jboss eap rhsa-2017 0171
+threatmeter java and python plagued by bug allowing attackers to avoid firewalls
+linux kernel up to 4.9.10 urg flag net ipv4 tcp.c tcp splice read tcp packet denial of service
+oraclevm 3.3 3.4 openssl ovmsa-2017-0042
+threatmeter centos 5 6 7 java-1.7.0-openjdk cesa-2017 0269
+cve-2014-9914 android linux kernel
+linux kernel up to 4.9.9 net ipv4 ip sockglue.c ipv4 pktinfo prepare denial of service
+threatmeter linux kernel up to 4.9.11 net dccp input.c dccp rcv state process denial of service
+na cve-2017-5972 the tcp stack in the linux kernel 3.x does not
+threatmeter cve-2016-9956 debian linux fedora flightgear
+java and python ftp attacks can punch holes through firewalls
+code execution flaw affected linux kernel since 2005 a researcher has discovered a serious locally infosec
+0daytoday oracle vm virtualbox amp lt 5.0.32 amp lt 5.1.14 privilege escalation e 0day exploit
+threatmeter oracle linux 6 7 ntp elsa-2017-0252
+opensuse security update gstreamer-0 10-plugins-base opensuse-2017-169
+threatmeter suse sled12 sles12 security update spice suse-su-2017 0392-1
+mysql cluster 7.4.x lt 7.4.6 general subcomponent dos january 2017 cpu
+linux kernel 4.8.2 denial of service overflow gain privileges vulnerability
+threatmeter opensuse security update open-vm-tools opensuse-2017-276
+cve-2017-5547 drivers hid hid-corsair.c in the linux kernel 4.9.x before 4.9.6 interacts incorrectly with the conf
+vuln oracle vm virtualbox cve-2017-3332 local security vulnerability
+bugtraq security dsa 3788-2 tomcat8 regression update
+threatmeter cve-2010-5328 linux kernel
+oracle e-business suite up to 12.2.6 marketing privilege escalation
+cve-2017-5027 blink in google chrome prior to 56.0.2924.76 for linux windows and mac and 56.0.2924.87 for androi
+threatmeter cve-2017-3430 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite
+threatmeter opensuse security update gd opensuse-2017-289
+threatmeter medium rhsa-2017 0263 java-1.8.0-ibm security update
+vuln linux kernel cve-2017-5548 local denial of service vulnerability
+suse sles12 security update policycoreutils suse-su-2017 0338-1
+ubuntu 12.04 lts 14.04 lts tomcat6 tomcat7 regression usn-3177-2 httpoxy nessus
+threatmeter cve-2016-9532 debian linux libtiff
+medium usn-3177-2 tomcat regression
+cve-2017-3439 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite subcomponen
+vuln linux kernel net x25 x25 facilities.c local information disclosure vulnerability
+citrix netscaler adc netscaler gateway up to 10.4 11.1 gcm nonce generator weak authentication
+vuln linux kernel cve-2017-5546 local denial of service vulnerability
+rhel 6 jboss eap rhsa-2017 0170
+oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation
+vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability
+red hat security advisory 2017-0216-01 advisory
+vuln red hat enterprise linux usb device descriptor local denial of service vulnerability
+suse sled12 sles12 security update tigervnc suse-su-2017 0519-1
+suse sles12 security update java-1 8 0-ibm suse-su-2017 0460-1 nessus
+threatmeter centos 5 kernel cesa-2016 2962
+threatmeter cve-2017-3440 vulnerability in the oracle customer interaction history component of oracle e-business
+opensuse security update phpmyadmin opensuse-2017-198
+java python ftp injections allow for firewall bypass cxsecurity
+threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation
+threatmeter oracle discoverer 11.1.1.7.0 obtain information vulnerability
+threatmeter citrix xenserver multiple vulnerabilities ctx220112
+opensuse security update the linux kernel opensuse-2017-246
+cve-2017-6074 a new 11-year old linux kernel flaw discovered
+threatmeter suse sled12 security update gstreamer-0 10-plugins-bad suse-su-2017 0331-1
+threatmeter suse sled12 sles12 security update tigervnc suse-su-2017 0519-1
+threatmeter opensuse security update openssl opensuse-2017-256
+threatmeter critical usn-3206-1 linux kernel vulnerabilities
+threatmeter suse sled12 sles12 security update gnutls suse-su-2017 0348-1
+suse sles11 security update bash suse-su-2017 0302-1
+threatmeter suse sles11 security update guile suse-su-2017 0394-1
+threatmeter suse sles12 security update mariadb suse-su-2017 0411-1
+threatmeter cve-2017-3436 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite
+oracle discoverer 11.1.1.7.0 obtain information vulnerability
+threatmeter suse sled12 sles12 security update util-linux suse-su-2017 0554-1
+cve-2017-3421 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite subcomponen
+cve-2017-5008 blink in google chrome prior to 56.0.2924.76 for linux windows and mac and 56.0.2924.87 for androi
+threatmeter cve-2017-3265 mysql
+threatmeter opensuse security update the linux kernel opensuse-2017-246
+threatmeter oracle hospitality opera 5 property services 5.4.0.0 remote code execution vulnerability
+suse sles12 security update policycoreutils suse-su-2017 0340-1
+threatmeter linux kernel 4.5.3 obtain information vulnerability
+opensuse security update rabbitmq-server opensuse-2017-156
+suse sled12 sles12 security update imagemagick suse-su-2017 0529-1
+vuln linux kernel fs pipe.c local denial of service vulnerability
+rhel 7 jboss eap rhsa-2017 0171 nessus
+0daytoday linux kernel 4.4.0 ubuntu dccp double-free poc exploit dos exploits 0day exploit
+oracle vm virtualbox
+threatmeter opensuse security update the linux kernel opensuse-2017-286
+threatmeter oracle business intelligence publisher 11.1.1.7.0 obtain information vulnerability
+threatmeter cve-2017-3442 vulnerability in the oracle customer interaction history component of oracle e-business
+oracle flexcube enterprise limits and collateral management 12.0.0 remote code execution vulnerability
+impact of new linux kernel dccp vulnerability limited threatpost
+threatmeter oracle e-business suite 12.1.1 12.1.2 12.1.3 customer intelligence privilege escalation
+high usn-3189-2 linux kernel xenial hwe vulnerabilities
+vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability
+threatmeter suse sled12 sles12 security update kernel suse-su-2017 0517-1
+threatmeter splunk enterprise lt 5.0.17 6.0.13 6.1.12 6.2.13 6.3.9 6.4.5 6.5.2 or splunk light lt 6.5.2
+threatmeter vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability
+vuln citrix license server for windows and license server vpx cve-2017-5571 open redirect vulnerability bugtraq
+webapps mysql file uploader 1.0 id parameter sql injection exploitdb
+vuln oracle vm virtualbox cve-2017-3316 remote security vulnerability
+cve-2016-8414 android linux kernel
+threatmeter oraclevm 3.4 libtiff ovmsa-2017-0036
+vuln util-linux cve-2016-5011 local denial of service vulnerability
+threatmeter vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability
+suse sles11 security update kernel suse-su-2017 0494-1 nessus
+suse sles12 security update spice suse-su-2017 0393-1
+threatmeter oracle linux 5 6 7 java-1.7.0-openjdk elsa-2017-0269
+vuln linux kernel cve-2017-5548 local denial of service vulnerability
+threatmeter oracle flexcube enterprise limits and collateral management 12.0.0 remote code execution vulnerability
+papers mysql out-of-band hacking
+threatmeter 0daytoday centos 7 kernel denial of service exploit cve-2017-5972 dos exploits 0day exploit
+cve-2016-8419 android linux kernel
+vuln linux kernel fs pipe.c local denial of service vulnerability
+oracle e-business suite up to 12.2.6 marketing privilege escalation
+ubuntu 12.04 lts linux-lts-trusty vulnerability usn-3188-2
+oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation
+vuln linux kernel fs pipe.c local denial of service vulnerability
+threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation
+oracle vm virtualbox 5.1.10 denial of service
+threatmeter opensuse security update mcabber opensuse-2017-282
+linux kernel 4.8.2 gain privileges vulnerability
+red hat security advisory 2017-0238-01 packetstorm
+centos7 kernel crashing by rsyslog daemon vulnerability dos
+vuln linux kernel cve-2012-6704 local denial of service vulnerability bugtraq
+oracle e-business suite up to 12.2.6 marketing privilege escalation
+vuln linux kernel cve-2016-7117 use-after-free remote code execution vulnerability
+threatmeter papers mysql out-of-band hacking
+shellcode linux multi dual mode reverse shell shellcode 129 bytes exploitdb
+suse sled12 sles12 security update tiff suse-su-2017 0453-1 nessus
+nvidia linux gpu display driver 304.x lt 304.135 340.x lt 340.102 361.x lt 361.119 375.x lt 375.39 3 nessus
+opensuse security update opera opensuse-2017-232
+linux kernel 4.5.2 denial of service obtain information vulnerability
+oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation
+threatmeter oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation
+threatmeter vuln linux kernel kvm emulate.c information disclosure vulnerability
+vuln apache tomcat cve-2016-6816 security bypass vulnerability
+cve-2017-6074 a new 11-year old linux kernel flaw discovered
+vuln apache tomcat cve-2016-8735 remote code execution vulnerability
+vuln linux kernel cve-2016-4482 local information disclosure vulnerability
+rhel 5 jboss eap rhsa-2017 0246 nessus
+jboss 4.0.2 cross site scripting packetstorm
+vuln oracle vm virtualbox cve-2017-3290 local security vulnerability
+threatmeter opensuse security update bzrtp opensuse-2017-193
+vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability
+threatmeter capsule8 launches linux-based container security platform
+threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation
+oraclevm 3.2 unbreakable etc ovmsa-2017-0041 nessus
+threatmeter linux kernel up to 4.9.6 fix cve-2016-6786 kernel events core.c privilege escalation
+vuln linux kernel cve-2017-5547 local denial of service vulnerability
+vuln linux kernel fs pipe.c local denial of service vulnerability
+bugtraq security dsa 3788-2 tomcat8 regression update
+oracle database server rdbms obtain information vulnerability
+threatmeter oracle database server remote code execution vulnerability
+oracle outside in vsdx 8.4.0 8.5.1 8.5.2 8.5.3 use-after-free cxsecurity
+samsung knox patch mongodb audit crypto in php podcast security daily
+google once again publicly discloses windows bug after microsoft fails to patch it hitb
+linux kernel up to 4.9.5 atusb.c buffer overflow
+red hat security advisory 2017-0275-01 packetstorm
+linux kernel 4.7.4 denial of service vulnerability
+threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation
+how to solve selinux issues with ease using selinux alert browser
+centos7 kernel denial of service exploit
+threatmeter suse sled12 sles12 security update ceph suse-su-2017 0367-1
+netapp virtual storage console up to 6.2.0 on vmware vsphere certificate weak authentication
+threatmeter opensuse security update spice opensuse-2017-228
+shellcode linux multi dual mode execve bin sh null 0 shellcode 37 bytes exploitdb
+suse sled12 sles12 security update java-1 7 0-openjdk suse-su-2017 0490-1
+threatmeter suse sles11 security update libcap-ng suse-su-2017 0375-1
+threatmeter oracle vm virtualbox 5.1.10 denial of service
+cve-2017-3426 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite subcomponen
+cve-2017-3438 vulnerability in the oracle one-to-one fulfillment component of oracle e-business suite subcomponen
+threatmeter oracle e-business suite up to 12.2.6 marketing privilege escalation
+ubuntu 12.04 lts linux-lts-trusty vulnerability usn-3188-2 nessus
+threatmeter ubuntu 16.10 linux vulnerabilities usn-3190-1
+threatmeter cve-2017-6074 a new 11-year old linux kernel flaw discovered
+linux kernel up to 4.8.x 4.9.4 freelist-randomization mm slab.c privilege escalation
+linux kernel 4.2.5 denial of service vulnerability
+vuln oracle vm virtualbox cve-2016-5545 remote security vulnerability oracle vm virtualbox cve-2016 infosec
+0daytoday oracle java uninitialized memory remote code execution vulnerability 0day exploit
+threatmeter vuln linux kernel net rds recv.c local information disclosure vulnerability
+high rhsa-2017 0282 openstack-cinder openstack-glance and openstack-nova security update
+suse sled12 sles12 security update tigervnc suse-su-2017 0519-1 nessus
+threatmeter linux kernel up to 4.9.6 vc4 gem.c vc4 get bcl privilege escalation
+red hat security advisory 2017-0282-01 packetstorm
+vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability
+linux kernel gets root-hole security patch for 12-year-old bug theregister
+0daytoday linux x86-64 egghunter shellcode 38 bytes shellcode 0day exploit
+threatmeter linux kernel up to 4.9.5 atusb.c buffer overflow
+threatmeter oracle agile product lifecycle management framework 9.3.5 obtain information vulnerability
+medium rhsa-2017 0269 java-1.7.0-openjdk security update
+after targeting linux mirai botnet is here to hack your windows devices
+vuln apache tomcat cve-2016-6816 security bypass vulnerability
+vuln apache tomcat cve-2016-6816 security bypass vulnerability
+shellcode linux reverse shell shellcode 66 bytes exploitdb
+threatmeter opensuse security update libgit2 opensuse-2017-213
+threatmeter oracle e-business suite 12.1.1 12.1.2 12.1.3 customer interaction history privilege escalation
+oracle e-business suite up to 12.2.6 one-to-one fulfillment privilege escalation
+vuln linux kernel scsi arcmsr driver cve-2016-7425 local heap buffer overflow vulnerability bugtraq
+threatmeter vuln apache tomcat cve-2016-6817 denial of service vulnerability

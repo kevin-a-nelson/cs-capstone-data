@@ -1,0 +1,188 @@
+0daytoday apache struts jakarta multipart parser ognl injection exploit remote exploits 0day exploit
+critical apache struts 2 vulnerability patch now thu mar 9th
+0daytoday apache struts jakarta multipart parser ognl injection exploit remote exploits 0day exploit
+cve-2016-8027 sql injection vulnerability in core services in intel security mcafee epolicy orchestrator epo 5.3
+vigilnce linux kernel use after free via complete emulated mmio
+googles project zero outs severe vulnerability in microsofts edge browser neal compu
+threatmeter ubuntu network-manager-applet permission checking flaw lets local users bypass login screen security
+news govcert.hk security alert a17-03-01 vulnerability in apache struts 8-mar-2017
+cyber extortionists hold mysql databases for ransom ransomware has become cyber crooks favorite attack infosec
+threatmeter 0daytoday linux x86 64 random listener shellcode 54 bytes shellcode 0day exploit
+vuln linux kernel cve-2017-5577 remote buffer overflow vulnerability
+ubuntu 12.04 lts linux linux-ti-omap4 vulnerability usn-3218-1
+vuln linux kernel cve-2017-6346 use after free local denial of service vulnerability
+vuln linux kernel cve-2017-5669 local security bypass vulnerability
+vuln linux kernel cve-2016-9806 local denial of service vulnerability
+ubuntu 14.04 lts 16.04 lts 16.10 tiff vulnerabilities usn-3212-1
+threatmeter apache struts2 gui exploit
+vuln linux kernel cve-2016-8655 local race condition vulnerability
+threatmeter linux kernel 4.4.0 ubuntu dccp double-free privilege escalation
+vuln apache struts cve-2017-5638 remote code execution vulnerability apache struts cve-2017-5638 remote infosec
+vuln linux kernel cve-2017-2636 local privilege escalation vulnerability bugtraq
+threatmeter ubuntu 16.04 lts linux linux-gke linux-raspi2 linux-snapdragon vulnerability usn-3220-1
+hackers exploit apache struts vulnerability to compromise corporate web servers
+ubuntu 12.04 lts linux-lts-trusty vulnerability usn-3219-2
+vuln linux kernel x86 mm gup.c local security bypass vulnerability
+threatmeter ubuntu 12.04 lts icoutils vulnerabilities usn-3226-1
+0daytoday linux x86-64 reverse shell shellcode 84 bytes shellcode 0day exploit
+vuln linux kernel kernel ptrace.c local privilege escalation vulnerability
+threatmeter cve-2013-5653 afpl ghostscript debian linux
+struts-pwn an exploit for apache struts cve-2017-5638
+na cisco-sa-20170310-struts2 apache struts2 jakarta multipart parser file upload code execution vulnerability
+threatmeter vuln linux kernel x86 mm gup.c local security bypass vulnerability
+threatmeter ubuntu 14.04 lts 16.04 lts 16.10 tiff vulnerabilities usn-3212-1
+apache struts jakarta multipart parser remote code execution vulnerability
+vuln linux kernel cve-2016-8655 local race condition vulnerability
+red hat security advisory 2017-0498-01 packetstorm
+vuln linux kernel ip6 gre.c denial of service vulnerability
+pwn2own 2017 experts hack edge safari ubuntu bug bounty hunters have managed to hack microsoft edge infosec
+vuln linux kernel cve-2017-2636 local privilege escalation vulnerability
+cve-2017-6874 race condition in kernel ucount.c in the linux kernel through 4.10.2 allows local users to cause a d
+threatmeter canada takes tax site offline after apache struts attacks
+threatmeter na cisco-sa-20170310-struts2 apache struts2 jakarta multipart parser file upload code execution v
+threatmeter cve-2017-6543 appliance nessus
+attacks heating up against apache struts 2 vulnerability
+vuln linux kernel cve-2016-9083 local integer overflow vulnerability
+strutszeiro telegram bot to manage botnets created with struts vulnerability cve-2017-5638
+rt gcluley new linux malware hijacks one vendor s iot devices by exploiting cgi bug via dmbisson
+na cve-2017-5985 lxc-user-nic in linux containers lxc allows
+rt dinosn strutszeiro telegram bot to manage botnets created with struts vulnerability cve-2017-5638
+threatmeter apache struts 2.3.5 2.3.31 2.5.x lt 2.5.10.1 jakarta multipart parser rce remote
+news in brief d-link vulnerabilities sha-1 woe mysql hacks your daily round-up of some of the other infosec
+google tells world how to crash microsoft internet explorer and edge browsers google s project zero infosec
+apache struts 2 under attack now
+attacks heating up against apache struts 2 vuln
+apache struts 2 under attack now the isbuzz post this post apache struts 2 under attack now infosec
+threatmeter ubuntu 12.04 lts linux-lts-trusty vulnerability usn-3219-2
+apache struts needs patch-ing without delay it s under attack now
+critical advisory support apache struts 2 vuln hpe fortify cve-2017-5638
+ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 libgd2 vulnerabilities usn-3213-1
+cve-2013-5653 afpl ghostscript debian linux
+ransomware attacks targeted hundreds of mysql databases the isbuzz post this post ransomware attacks infosec
+attacks under way against easily exploitable apache struts flaw
+apache servers under attack through easily exploitable struts 2 flaw
+0daytoday linux kernel 4.4.0 ubuntu dccp double-free privilege escalation exploit 0day exploit
+threatmeter apache struts jakarata multipart parser bug lets remote users execute arbitrary commands on the targe
+apache attack traffic dropping limited to few sources while probes looking for vulnerable apache struts infosec
+apache struts jakarta remote code execution cve-2017-5638 detection with nessus
+attacks heating up against apache struts 2 vulnerability
+threatmeter ubuntu 12.04 lts 14.04 lts kde4libs vulnerability usn-3223-1
+canadian agency breached as hackers exploit cve-2017-5638 flaw in apache struts 2 securityaffairs
+linux kernel 4.4.0 ubuntu dccp double-free crash
+debian dsa-3796-1 apache2 security update nessus
+vuln linux kernel cve-2017-6074 local denial of service vulnerability linux kernel cve-2017-6074 local infosec
+vuln linux kernel kvm emulate.c null pointer dereference denial of service vulnerability
+threatmeter 0daytoday linux kernel 4.4.0 ubuntu dccp double-free poc exploit dos exploits 0day exploit
+vuln linux kernel cve-2017-6214 remote denial of service vulnerability
+vuln linux kernel net sctp socket.c local denial of service vulnerability
+adobe flash player for mac lt 24.0.0.221 multiple vulnerabilities apsb17-07 nessus
+threatmeter cve-2016-5315 debian linux libtiff
+threatmeter ubuntu 12.04 lts 14.04 lts 16.04 lts 16.10 network-manager-applet vulnerability usn-3217-1
+threatmeter ubuntu 16.04 lts linux-hwe vulnerability usn-3221-2
+ubuntu 14.04 lts 16.04 lts 16.10 lxc vulnerability usn-3224-1
+google s project zero outs severe vulnerability in microsoft s edge browser
+rhel 5 kvm rhsa-2017 0454 nessus
+rhel 7 red hat jboss web server 3.1.0 rhsa-2017 0456 nessus
+cve-2016-5315 debian linux libtiff
+threatmeter vuln linux kernel cve-2016-8650 null pointer deference local denial of service vulnerability
+threatmeter opensuse security update util-linux opensuse-2017-305
+vuln linux kernel cve-2017-6353 incomplete fix local denial of service vulnerability
+apache struts jakarta multipart parser remote code execution a remote code execution vulnerability infosec
+threatmeter na cve-2017-5638 the jakarta multipart parser in apache struts 2
+ubuntu 12.04 lts 14.04 lts kde4libs vulnerability usn-3223-1
+threatmeter vuln linux kernel net mac80211 tx.c information disclosure vulnerability
+na cve-2017-6874 race condition in kernel ucount.c in the linux
+linus torvalds explains how to pull without jerking his chain linux 4.11 rc 2 is out but not until infosec
+actively exploited struts flaw affects cisco products
+apache struts jakarta multipart parser ognl injection packetstorm
+the cve-2017-5638 apache struts 2 command execution flaw affects cisco products securityaffairs
+vuln linux kernel ip sockglue.c denial of service vulnerability
+linux kernel 4.4.0 ubuntu dccp double-free privilege escalation
+vuln linux kernel cve-2017-6353 incomplete fix local denial of service vulnerability linux kernel cve infosec
+linux kernel up to 4.10.2 system call kernel ucount.c denial of service
+hackers now hit mysql databases with ransomware
+threatmeter vuln linux kernel local use after free multiple denial of service vulnerabilities
+mongoaudit mongodb auditing amp pen-testing tool mongoaudit is a cli tool for mongodb auditing of infosec
+cve-2017-5638 new remote code execution rce vulnerability in apache struts 2
+threatmeter new linux malware exploits cgi vulnerability
+vuln linux kernel cve-2016-2853 local privilege escalation vulnerability linux kernel cve-2016-2853 infosec
+vuln linux kernel cve-2016-8650 null pointer deference local denial of service vulnerability
+threatmeter in-the-wild exploits ramp up against high-impact sites using apache struts
+vuln linux kernel cve-2016-2853 local privilege escalation vulnerability
+threatmeter vuln linux kernel cve-2016-8650 null pointer deference local denial of service vulnerability
+vuln apache struts cve-2017-5638 remote code execution vulnerability bugtraq
+vuln linux kernel cve-2017-2583 privilege escalation vulnerability
+threatmeter the cve-2017-5638 apache struts 2 command execution flaw affects cisco products
+patch apache struts 2 now hackers are exploiting a remote code execution zero-day in the wild
+new apache struts zero-day vulnerability being exploited in the wild
+threatmeter apache struts up to 2.3.31 2.5.10 jakarta multipart parser content-type privilege escalation
+apache struts 2 bug bites canada cisco vmware and others this post doesn t have enough text content infosec
+apache struts 2 bug bites canada cisco vmware and others
+two million recordings of kids parents leaked from cloud-connected toys crappy mongodb theregister
+apache struts vulnerability exploited in the wild a high severity remote code execution rce infosec
+threatmeter vuln linux kernel arch x86 kvm vmx.c denial of service vulnerability
+apache struts 2 zero-day is being exploited in the wild
+vuln linux kernel cve-2016-9806 local denial of service vulnerability
+threatmeter adobe flash player 11.2.202.635 linux execute code vulnerability
+threatmeter vuln linux kernel cve-2017-6346 use after free local denial of service vulnerability
+threatmeter debian dsa-3804-1 linux security update
+linux kernel 4.4.0 ubuntu dccp double-free crash packetstorm
+vuln linux kernel tuners tuner-xc2028.c local use after free memory corruption vulnerability
+threatmeter cve-2016-9259 nessus
+threatmeter debian dsa-3796-1 apache2 security update
+linux kernel up to 4.10.1 drivers tty n hdlc.c denial of service
+rhel 5 6 7 thunderbird rhsa-2017 0498 nessus
+threatmeter google s project zero outs severe vulnerability in microsoft s edge browser
+vuln apache struts cve-2017-5638 remote code execution vulnerability
+don t get zapped by the struts-shock vulnerability affecting apache struts 2
+bugtraq security dsa 3804-1 linux security update bugtraq
+canadian agency breached as hackers exploit cve-2017-5638 flaw in apache struts 2
+vuln linux kernel multiple information disclosure vulnerabilities
+threatmeter linux kernel 4.4.0 ubuntu dccp double-free poc
+hackers now hit mysql databases with ransomware
+vuln linux kernel cve-2016-8650 null pointer deference local denial of service vulnerability
+vuln linux kernel cve-2017-6346 use after free local denial of service vulnerability
+vuln linux kernel multiple information disclosure vulnerabilities
+0daytoday struts2 s2-045 remote command execution exploit remote exploits 0day exploit
+ubuntu 12.04 lts icoutils vulnerabilities usn-3226-1
+debian dsa-3796-1 apache2 security update
+threatmeter vuln linux kernel multiple local memory corruption vulnerabilities
+vuln linux kernel cve-2017-6874 use after free local denial of service vulnerability bugtraq
+threatmeter vuln linux kernel cve-2017-2636 local privilege escalation vulnerability
+threatmeter high dsa-3804 linux security update
+opensuse security update gstreamer opensuse-2017-302 nessus
+threatmeter the cve-2017-5638 apache struts 2 command execution flaw affects cisco products
+vuln linux kernel cve-2017-6345 local denial of service vulnerability bugtraq
+vuln apache struts cve-2017-5638 remote code execution vulnerability apache struts cve-2017-5638 remote infosec
+patch apache struts 2 now hackers are exploiting a remote code execution zero-day in the wild
+tenable nessus up to 6.10.1 file upload directory traversal
+ubuntu 16.04 lts linux linux-gke linux-raspi2 linux-snapdragon vulnerability usn-3220-1 nessus
+sap businessobjects financial consolidation 10.0.0.1933 cross site scripting packetstorm
+vuln linux kernel cve-2015-8963 use after free remote code execution vulnerability
+vuln linux kernel cve-2016-8650 null pointer deference local denial of service vulnerability bugtraq
+canonical preps security lifeboat yells ubuntu 12.04 hold-outs get in
+ubuntu 14.04 lts 16.04 lts 16.10 tiff vulnerabilities usn-3212-1 nessus
+vuln apache struts cve-2017-5638 remote code execution vulnerability
+vuln linux kernel net mac80211 tx.c information disclosure vulnerability
+ubuntu security notice usn-3212-1 advisory
+credit card stealer disguises as google chrome browser
+vuln linux kernel ext4 image local denial of service vulnerability
+vuln linux kernel cve-2017-5669 local security bypass vulnerability bugtraq
+canadian agency breached as hackers exploit cve-2017-5638 flaw in apache struts 2
+threatmeter ubuntu 14.04 lts linux-lts-xenial vulnerabilities usn-3234-2
+vuln linux kernel local use after free multiple denial of service vulnerabilities
+debian dsa-3804-1 linux security update
+vuln linux kernel x86 mm gup.c local security bypass vulnerability
+opensuse security update cacti opensuse-2017-325 nessus
+debian dsa-3795-1 bind9 security update
+vuln linux kernel cve-2017-6353 incomplete fix local denial of service vulnerability bugtraq
+threatmeter linux kernel race condition in n hldc driver lets local users gain elevated privileges
+apache struts 2 2.3.x 2.5.x remote code execution packetstorm
+rhel 7 policycoreutils rhsa-2017 0536 nessus
+vuln linux kernel cve-2017-6874 use after free local denial of service vulnerability
+new linux malware hijacks one vendor s iot devices by exploiting cgi bug a new form of linux malware is infosec
+821 000 user records exposed due to misconfigured mongodb for smart stuffed toys networkworld
+actively exploited struts flaw affects cisco products
+new apache struts zero-day vulnerability being exploited in the wild security researchers have infosec
+ubuntu 12.04 lts 14.04 lts kde4libs vulnerability usn-3223-1 nessus
+ubuntu security notice usn-3218-1 advisory

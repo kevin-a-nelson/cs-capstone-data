@@ -1,0 +1,272 @@
+fantom ransomware windows update disguise a new ransomware called fantom has been discovered that infosec
+microsoft rolls out kb 4010250 flash player update for windows 8.1 and 10
+researchers at dr web spotted a windows version of the mirai bot
+threatmeter how to remove the cryptoshield ransomware from your computer windows 7 windows 8 windows 10
+surprise microsoft issues flash patches for internet explorer edge microsoft sent an email to its infosec
+the week in ransomware february 17th 2017 live hermes reversing amp scada poc ransomware
+cyber crooks latest tricks for targeting chrome users chrome users have lately been targeted with a few infosec
+zombie script deluges internet explorer 11 with pop-up alerts until user closes tab via dmbisson
+protocol injections hit python and java subscribe now
+facepalm apparently linux encryption app cryptkeeper has a universal decryption password the letter p
+aix 7.2 tl 0 ntp iv92192
+0daytoday microsoft office powerpoint 2010 mso ordinal5429 missing length check heap corruption 0day exploit
+mcafee epolicy orchestrator datachannel blind sql injection vulnerability vuln antivirus infosec
+google once again publicly discloses windows bug after microsoft fails to patch it google is once infosec
+threatmeter 0daytoday microsoft windows gdi32.dll emr setdibitstodevice heap-based out-of-bounds reads expl
+windows 10 new privacy settings still leave users in dark on how microsoft uses data despite microsoft infosec
+exploit for windows dos zero-day published patch out on tuesday
+0daytoday microsoft office powerpoint 2010 gdi gdi32 convertdxarray insufficient bounds check e 0day exploit
+researchers at dr web spotted a windows version of the mirai bot
+windows trojan spreads mirai to linux devices securityweek
+gmail drops support for chrome on windows xp and vista gmail will soon drop support for chrome version infosec
+threatmeter windows-based mirai muck-spreader the work of a skilled attacker
+akbuilder a builder for exploit-laden word documents
+dos microsoft windows gdi32.dll emr setdibitstodevice heap-based out-of-bounds reads memory disclosure
+skilled attacker develops advanced windows botnet to spread infamous mirai malware
+threatmeter google releases details of unpatched internet explorer and microsoft edge vulnerability mark wilson
+rhel 7 jboss core services rhsa-2017 0194 nessus
+threatmeter microsoft windows server message block smbv3 response processing bug lets remote users cause the targ
+atombombing brand new code injection for windows
+attacking microsoft office amp openoffice with metasploit macro exploits
+cve-2017-2991 adobe flash player versions 24.0.0.194 and earlier have an exploitable memory corruption vulnerabili
+rhel 7 spice rhsa-2017 0254 nessus
+mirai malware now targeting windows the isbuzz post this post mirai malware now targeting windows infosec
+akbuilder a builder for exploit-laden word documents
+rhel 7 spice rhsa-2017 0254
+fantom ransomware windows update disguise
+threatmeter exploit for windows dos zero-day published patch out on tuesday
+new smb bug how to crash windows system with a link of death
+threatmeter rhel 7 kernel-rt rhsa-2017 0295
+windows smbv3 denial of service proof of concept 0 day exploit thu feb 2nd the tweet originally infosec
+cve-2017-2993 adobe flash player versions 24.0.0.194 and earlier have an exploitable use after free vulnerability
+fldbg a pykd script to debug flashplayer
+rhel 6 jboss-ec2-eap rhsa-2017 0250
+cve-2017-5014 heap buffer overflow during image processing in skia in google chrome prior to 56.0.2924.76 for linu
+sap security notes february 2017 on 14 of february 2017 sap released its monthly set of sap security infosec
+fldbg a pykd script to debug flashplayer
+threatmeter 0daytoday microsoft office powerpoint 2010 mso ordinal5429 missing length check heap corruption
+microsoft patch tuesday or is that patch next tuesday flash player rce patched today tue feb infosec
+aix java advisory java oct2016 advisory.asc october 2016 cpu
+adobe flash player up to 24.0.0.194 use-after-free buffer overflow
+cve-2017-5025 ffmpeg in google chrome prior to 56.0.2924.76 for linux windows and mac failed to perform proper b
+cve-2017-2985 adobe flash player versions 24.0.0.194 and earlier have an exploitable use after free vulnerability
+google reveals windows os bugs that microsoft did not fix 3 months ago
+adobe flash player 11.2.202.635 denial of service execute code overflow memory corruption vulnerability
+dos google chrome layout out-of-bounds read
+threatmeter adobe flash player up to 24.0.0.194 type confusion buffer overflow
+threatmeter google chrome up to 56 content security policy cross site scripting
+ms16-155 important security update for .net framework 3205640 version 2.1
+zero-day windows file-sharing flaw can crash systems maybe worse
+threatmeter microsoft releases security update for flash player libraries
+fldbg a pykd script to debug flashplayer
+vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability
+threatmeter vuln adobe flash player apsb16-10 multiple use after free remote code execution vulnerabilities
+threatmeter mcafee epolicy orchestrator agent remote log detection
+rhel 7 kernel rhsa-2017 0270
+google chrome hack
+threatmeter rhel 6 jboss-ec2-eap rhsa-2017 0250
+security readings honeywell scada controllers exposed passwords in clear text see more
+threatmeter rhel 7 ovirt-engine-extension-aaa-jdbc rhsa-2017 0257
+ms17-005 security update for adobe flash player 4010250
+threatmeter google chrome htmlkeygenelement shadowselect type confusion
+threatmeter ftp injection flaws in java and python allows firewall bypass
+threatmeter rhel 6 nagios rhsa-2017 0259
+microsoft delays windows zero day patch researcher drops exploit code microsoft decided to delay a infosec
+relax windows defender has got your back learn more about windows10 comprehensive security
+deploying windows server update services in domain environment and using group policies on windows server infosec
+java and python plagued by bug allowing attackers to avoid firewalls
+threatmeter java and python plagued by bug allowing attackers to avoid firewalls
+java and python ftp attacks can punch holes through firewalls networkworld
+threatmeter aix 6.1 tl 9 ntp iv91803
+why eu watchdogs say windows 10 is still a major privacy concern microsoft made some attempts to clarify infosec
+java python bugs allow attackers to circumvent firewalls
+microsoft catches up to valentine s day flash flaw massacre
+java and python ftp attacks can punch holes through firewalls
+google discloses windows vulnerability that microsoft fails to patch again
+threatmeter rhel 6 kernel rhsa-2017 0216
+java python bugs allow attackers to circumvent firewalls the unpatched vulnerabilities can be exploited infosec
+windows botnet spreading mirai variant a windows-based botnet is spreading a mirai variant that is also infosec
+how zscaler is optimizing office 365 to remove the burden from firewalls we caught up with zscaler at infosec
+java and python have unpatched firewall-crossing ftp snafu
+windows defender atp can help you better detect amp respond to security threats watch the on-demand webinar
+windows smb zero-day exploit released after microsoft failed to issue patch for three months graeme.burtonincisiv
+linux encryption app cryptkeeper has universal password p and that should be the end of that shouldn infosec
+google bellows bug news after microsoft sails past fix deadline mess in windows graphics library can infosec
+java and python ftp attacks can punch holes through firewalls
+beware don t fall for font wasn t found google chrome malware scam next time when you accidentally or infosec
+google chrome is under attack unknown malware affecting users
+new zombie script deluges internet explorer 11 with persistent pop-up alerts until user closes the tab dmbisson
+preparing security for windows 7 end-of-life support
+over a dozen code execution flaws patched in flash player
+last dridex trojan variant uses a new tactic to bypass windows uac a new variant of the dridex trojan infosec
+google publishes details of windows bug after microsoft misses 90-day project zero disclosure deadli mark wilson
+powershell stuff windows 10
+microsoft pushes out patches for critical flash player vulnerabilities
+how zscaler is optimizing office 365 to remove the burden from firewalls
+threatmeter cve-2017-3231 jdk jre
+unpatched windows zero day allows dos attacks possibly other exploits
+microsoft patch tuesday or is that patch next tuesday flash player rce patched today
+threatmeter rhel 7 jboss eap rhsa-2017 0171
+threatmeter java and python plagued by bug allowing attackers to avoid firewalls
+rt securityaffairs researchers hack whatsapp accounts through ss7 protocol
+threatmeter centos 5 6 7 java-1.7.0-openjdk cesa-2017 0269
+threatmeter cve-2017-3241 jdk jre jrockit
+rhel 6 nagios rhsa-2017 0259
+unpatched windows zero day allows dos attacks possibly other exploits
+microsoft beefs up enterprise security in windows 10 surface
+microsoft beefs up enterprise security in windows 10 surface
+cve-2016-5549 jdk jre
+0daytoday adobe flash use-after-free in applying bitmap filter exploit dos exploits 0day exploit
+java and python ftp attacks can punch holes through firewalls
+0daytoday google chrome layout out-of-bounds read vulnerability dos exploits vulnerability 0day exploit
+cve-2017-5027 blink in google chrome prior to 56.0.2924.76 for linux windows and mac and 56.0.2924.87 for androi
+threatmeter rhel 6 kernel rhsa-2017 0316
+threatmeter medium rhsa-2017 0263 java-1.8.0-ibm security update
+threatmeter nvidia windows gpu display driver 375.x lt 376.67 378.x lt 378.52 multiple vulnerabilities
+windows smb 0-day risk downplayed
+rhel 6 jboss eap rhsa-2017 0170
+nvidia windows gpu display driver kernel mode layer nvlddmkm.sys dxgkddisubmitcommandvirtual buffer overflow
+vuln microsoft office cve-2016-7262 remote code execution vulnerability bugtraq
+rt ivanlef0u how control flow integrity is implemented in windows 10 process hacker 2 cfg support
+threatmeter fortinet security researcher discovers multiple critical vulnerabilities in adobe flash player
+red hat security advisory 2017-0216-01 advisory
+vuln red hat enterprise linux usb device descriptor local denial of service vulnerability
+vuln skype for windows cve-2016-5720 untrusted search path vulnerability
+threatmeter cve-2016-8972 aix vios
+suse sles12 security update java-1 8 0-ibm suse-su-2017 0460-1 nessus
+sap gui up to 7.40 on windows saplpd crash denial of service
+threatmeter us-cert is warning about a windows smb zero-day flaw
+java python ftp injections allow for firewall bypass cxsecurity
+microsoft windows 10 will stop a ransomware epidemic when antivirus fails
+rt sansics fill in your ics knowledge gap with ics scada security essentials ics410 in orlando apr 9-13 sans2017
+icymi google goes public about unpatched windows vulnerability
+microsoft will likely fix windows smb denial-of-service flaw on patchtuesday
+new vulnerability update bundling with adobe flash exposes windows and microsoft had more vulnerable products
+akbuilder is the latest exploit kit to target word documents spread malware nakedsecurity
+new vulnerability update bundling with adobe flash exposes windows and microsoft had more vulnerable infosec
+threatmeter microsoft windows 10 1607 gold gain privileges vulnerability
+new vulnerability update bundling with adobe flash exposes windows and microsoft had more vulnerable products
+threatmeter gmail to stop support for older chrome browsers windows xp and vista os
+malicious chrome extension punishes users with tech support scam
+cve-2017-5008 blink in google chrome prior to 56.0.2924.76 for linux windows and mac and 56.0.2924.87 for androi
+vuln adobe flash player apsb16-10 multiple use after free remote code execution vulnerabilities
+chrome users targeted by websites forcing them to install extension to leave
+google chrome up to 56 blink universal cross site scripting
+threatmeter vulnerability in microsoft smbv3 protocol crashes windows pcs
+threatmeter adobe flash player bugs let remote users execute arbitrary code
+windows x86 protect process shellcode packetstorm
+google once again publicly discloses windows bug after microsoft fails to patch it
+new windows trojan spreads mirai malware to hack more iot devices thehackernews
+threatmeter ics scada security woes linger on
+microsoft pushes out patches for critical flash player vulnerabilities helpnetsecurity
+ms17-005 critical security update for adobe flash player 4010250 version 1.0
+vuln microsoft windows cve-2017-0016 memory corruption vulnerability bugtraq
+vuln microsoft windows cve-2017-0016 memory corruption vulnerability bugtraq
+rhel 7 jboss eap rhsa-2017 0171 nessus
+publicly disclosed windows vulnerabilities await patches
+threatmeter microsoft pushes out critical flash player patches with one week delay
+microsoft windows 10 1607 gold gain privileges vulnerability
+ivpn client for windows 2.6.6120.33863 privilege escalation
+vuln citrix license server for windows and license server vpx cve-2017-5571 open redirect vulnerability bugtraq
+google chrome layout out-of-bounds read cxsecurity
+threatmeter adobe flash player up to 24.0.0.194 buffer overflow cve-2017-2988
+windows smb 0-day risk downplayed
+threatmeter vuln microsoft office cve-2016-7262 remote code execution vulnerability
+publicly disclosed windows vulnerabilities await patches threatpost
+threatmeter another zero day bug found in windows versions
+vuln adobe flash player and air apsb16-08 multiple unspecified integer overflow vulnerabilities
+windows 10 0day exploit goes wild and so do microsoft marketers
+google chrome layout out-of-bounds read
+new windowstrojan spreads mirai malware to hack more iot devices
+microsoft windows 8.1 10 server 2012 server 2016 smb response mrxsmb20.sys denial of service
+threatmeter oracle linux 5 6 7 java-1.7.0-openjdk elsa-2017-0269
+apsb17-04 adobe flash player use after free remote code execution iii
+threatmeter rhel 6 kernel rhsa-2017 0215
+google chrome hack
+rhel 7 kernel rhsa-2017 0217 nessus
+adobe flash mp4 amf parsing overflow
+kaspersky says businesses hit by fileless windows malware
+threatmeter na cve-2016-2399 integer overflow in the quicktime read pascal
+google chrome layout out-of-bounds read
+red hat security advisory 2017-0238-01 packetstorm
+sap sapcryptolib 5.555.38 remote code execution vulnerability
+threatmeter adobe flash swf stack corruption
+threatmeter microsoft pushes out patches for critical flash player vulnerabilities
+cve-2017-2994 apsb17-04 adobe flash player use after free remote code execution iv mcafee
+microsoft releases security update for flash player libraries
+nvidia windows gpu display driver kernel mode layer denial of service
+vuln adobe flash player and air apsb16-08 multiple unspecified integer overflow vulnerabilities bugtraq
+cve-2016-8944 aix
+threatmeter windows smb 0-day risk downplayed
+threatmeter adobe flash player up to 24.0.0.194 integer buffer overflow
+recommendations to help the security of ics-scada systems helpnetsecurity
+threatmeter microsoft releases security updates for flash player but two disclosed flaws remain unpatched
+threatmeter microsoft office word malicious macro execution
+threatmeter google chrome hack
+critical security update released for flash after patchtuesday delay
+windows smb zero-day exploit on the loose darkreading
+new vulnerability update bundling with adobe flash exposes windows and microsoft had more vulnerable products
+threatmeter windows smb 0-day risk downplayed
+rhel 5 jboss eap rhsa-2017 0246 nessus
+patch now sap february updates address a total of 22 flaws
+threatmeter microsoft office powerpoint 2010 gdi gdi32 convertdxarray insufficient bounds check
+dridex is back uses new windows uac bypass method
+threatmeter vuln adobe flash player and air apsb16-08 multiple unspecified integer overflow vulnerabilities
+threatmeter critical ms17-005 security update for adobe flash player 4010250
+threatmeter gmail to stop supporting chrome version below v.55 windows xp and vista will highly be affected
+vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability
+unpatched windows vulnerability disclosed by project zero
+0daytoday microsoft office powerpoint 2010 mso oart heap out-of-bounds access exploit 0day exploit
+office loader leverages malicious macros to deliver multiple malware
+threatmeter gmail is ditching support for chrome on windows xp and vista this year
+windows smb zero-day exploit released in the wild after microsoft delayed the patch thehackernews
+threatmeter windows update issues may be at root of february s patch delay
+microsoft releases emergency adobe flash player fix outside of patchtuesday
+cve-2016-8972 aix vios
+suspicious word document with a cra warning
+windows smb zero-day exploit on the loose
+gmail to stop supporting chrome version below v.55 windows xp and vista will highly be affected
+microsoft office powerpoint 2010 mso oart heap out-of-bounds access exploit
+smb 3 0-day dos exploit wordpress update webroot bsod podcast security
+google once again publicly discloses windows bug after microsoft fails to patch it hitb
+red hat security advisory 2017-0275-01 packetstorm
+microsoft unveils new security and risk capabilities in office 365
+ics scada security woes linger on
+new vulnerability update bundling with adobe flash exposes windows and microsoft had more vulnerable products
+suse sled12 sles12 security update java-1 7 0-openjdk suse-su-2017 0490-1
+threatmeter ibm aix 6.1 7.1 7.2 bellmail privilege escalation
+vuln microsoft windows cve-2017-0016 memory corruption vulnerability microsoft windows cve-2017-0016 infosec
+google discloses zero-day windows flaw
+ms17-005 critical security update for adobe flash player 4010250 version 1.0
+0daytoday google chrome layout out-of-bounds read vulnerability dos exploits vulnerability 0day exploit
+rhel 7 ansible and gdeploy rhsa-2017 0260
+threatmeter vuln adobe flash player and air apsb16-08 multiple unspecified integer overflow vulnerabilities
+threatmeter cisco webex chrome extension remote command execution
+cve-2017-2990 apsb17-04 adobe flash player memory corruption remote code execution ii mcafee
+office loader leverages malicious macros to deliver multiple malware securityaffairs
+rhel 6 7 ntp rhsa-2017 0252
+google unveils the vulnerability in internet explorer and edge
+threatmeter google once again publicly discloses windows bug after microsoft fails to patch it
+microsoft office 2010 mso ordinal5429 heap corruption exploit
+beware don t fall for font wasn t found google chrome malware scam thehackernews
+shellcode windows x86 protect process shellcode 229 bytes exploitdb
+how to remove malware from the google chrome missing hoefler font hack
+microsoft releases security updates for flash player but two disclosed flaws remain unpatched
+0daytoday oracle java uninitialized memory remote code execution vulnerability 0day exploit
+europe still has concerns about privacy in windows 10 hitb
+new vulnerability update bundling with adobe flash exposes windows and microsoft had more vulnerable infosec
+threatmeter nvidia windows gpu display driver kernel mode layer denial of service
+threatmeter security bulletins posted for flash player digital editions and adobe campaign
+red hat security advisory 2017-0282-01 packetstorm
+vuln oracle java se and jrockit cve-2016-3427 remote security vulnerability
+microsoft patches remote code execution vulnerability in adobe flash player today microsoft released the infosec
+last dridex trojan variant uses a new tactic to bypass windows uac
+chrome malware campaign drops the spora ransomware
+medium rhsa-2017 0269 java-1.7.0-openjdk security update
+after targeting linux mirai botnet is here to hack your windows devices
+vuln mcafee agent cve-2017-3896 remote denial of service vulnerability bugtraq
+ibm aix sysproc bug lets local users cause denial of service conditions on the target system
+vuln adobe flash player and air apsb16-08 multiple unspecified integer overflow vulnerabilities
+threatmeter unpatched windows vulnerability disclosed by project zero
+threatmeter microsoft releases emergency adobe flash player fix outside of patch tuesday
+a look at the cerber office 365 ransomware
